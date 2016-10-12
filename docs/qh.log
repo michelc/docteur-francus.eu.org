@@ -1,11 +1,12 @@
 QuickHtml ..
 ---
-date: 12/10/2016 14:04:45
+date: 12/10/2016 14:14:15
 src: E:\MVC\docteur-francus.eu.org\src
 dist: E:\MVC\docteur-francus.eu.org\dist
 ---
 rmdir: /*.*
 mkdir: /
+ copy: /CNAME
 WRITE: /index.md
 touch: /qh.log
  copy: /robots.txt
