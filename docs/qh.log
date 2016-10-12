@@ -1,0 +1,18 @@
+QuickHtml ..
+---
+date: 12/10/2016 14:04:45
+src: E:\MVC\docteur-francus.eu.org\src
+dist: E:\MVC\docteur-francus.eu.org\dist
+---
+rmdir: /*.*
+mkdir: /
+WRITE: /index.md
+touch: /qh.log
+ copy: /robots.txt
+mkdir: /css
+ copy: /css/normalize.css
+ copy: /css/style.css
+mkdir: /vivarais
+WRITE: /vivarais/0.md
+WRITE: /vivarais/index.md
+WRITE: /sitemap.md

@@ -1,0 +1,224 @@
+/*
+ * voyages-docteur-francus
+ */
+
+
+/* Layout
+   (http://www.adamkaplan.me/grid/)
+   ========================================================================== */
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font: 14px/1.4 Century, "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #fff;
+  color: #444;
+}
+
+.container {
+  background-color: #fff;
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 1rem;
+  text-align: justify;
+}
+
+
+/* Links
+   ========================================================================== */
+
+a,
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+
+/* Titles
+   ========================================================================== */
+
+header {
+  font-family: "Century Gothic", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-size: 1.3rem;
+  margin: 1rem 0;
+  text-transform: uppercase;
+  transform: scale(1.1, 1);
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 1rem -4rem;
+  text-transform: none;
+  transform: scale(.8, 1);
+}
+
+h2 a {
+  color: green !important;
+}
+
+header hr {
+  background-color: #111;
+  border: 0;
+  height: 1px;
+  margin: 3rem 42%;
+}
+
+
+/* Lists
+   ========================================================================== */
+
+ul,
+ol {
+  margin: 0 0 0 1.3rem;
+  padding: 0;
+  text-align: left;
+}
+
+#toc ol {
+  list-style: upper-roman;
+  margin-left: 3rem;
+}
+
+#toc ol :first-child {
+  list-style: none;
+}
+
+
+/* Texts
+   ========================================================================== */
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+p {
+  text-indent: 1.2rem;
+}
+
+p.tab {
+  text-indent: 3.5rem;
+}
+
+p.end {
+  font-size: smaller;
+  margin-right: 1.2rem;
+  text-align: right;
+  text-indent: 0.5rem;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+a[href="#notes"] {
+  font-size: smaller;
+  font-weight: bold;
+  margin: 0 .2rem;
+}
+
+hr {
+  margin: 1.2rem 0;
+}
+
+#notes li {
+  font-size: small;
+  text-align: justify;
+}
+
+
+
+/* Footer
+   ========================================================================== */
+
+footer {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+
+/* Smartphone (landscape)
+   ========================================================================== */
+
+@media (min-width: 28rem) {
+  html {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+}
+
+
+/* Tablet & desktop
+   ========================================================================== */
+
+@media (min-width: 48rem) {
+  html {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  body {
+    background-color: #f8f8f8;
+  }
+  .container {
+    max-width: 48rem;
+    padding: 1rem 12rem;
+  }
+  #mazon .container {
+    padding: 1rem 6rem;
+  }
+}
+
+
+/* Print
+   ========================================================================== */
+
+@page {
+  margin: 3.33cm 0; /* en cm pour IE */
+}
+
+@media print {
+  html {
+    font-size: 130%;
+    line-height: 1.35;
+  }
+  body {
+    background-color: #fff;
+  }
+  .container {
+    padding: 2rem 5rem;
+    max-width: 34rem;
+    width: 100%;
+    orphans: 2;
+    widows: 2;
+  }
+  #mazon .container {
+    padding: 2rem;
+  }
+  h2 {
+    margin: 1rem 0;
+  }
+  p {
+    margin: .33rem;
+  }
+}
