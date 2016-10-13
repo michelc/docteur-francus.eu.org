@@ -14,11 +14,11 @@ poésie, Albin Mazon est d'abord élève du "petit séminaire" de Bourg-Saint-An
 puis jusqu'en 1846 du collège de Privas, tenu par les Basiliens (temps dont il
 gardera un souvenir ému et reconnaissant).
 
-Il entreprend ensuite des études de médecine à Paris. Mais le docteur Victorin
-Mazon, républicain convaincu, est compromis dans "l'affaire de Laurac". En 1851,
-cela les oblige à s'exiler pour opinions politiques, en Suisse dans un premier
-temps, puis dans les États de Savoie, qui appartenaient alors au royaume de
-Sardaigne.
+Il entreprend ensuite des études de médecine à Paris. Mais le docteur [Victorin
+Mazon](https://1851.fr/hommes/mazon/), républicain convaincu, est compromis dans
+"l'affaire de Laurac". En 1851, cela les oblige à s'exiler pour opinions
+politiques, en Suisse dans un premier temps, puis dans les États de Savoie, qui
+appartenaient alors au royaume de Sardaigne.
 
 Albin Mazon doit renoncer à ses études de médecine pour trouver une situation.
 Il devient journaliste, à Chambéry d'abord, puis à Nice. Rédacteur à l'Avenir de
@@ -32,7 +32,7 @@ Nice à la France, il est décoré de la Légion d'honneur le 15 août 1862.
 
 A sa retraite en 1890, il se consacre à l'histoire de son pays natal, le
 Vivarais, devenu le département de l'Ardèche. Infatigable explorateur et
-historien du département, Albon Mazon est l'auteur de nombreux ouvrages dont des
+historien du département, Albin Mazon est l'auteur de nombreux ouvrages dont des
 récits de voyages en Ardèche publiés sous le pseudonyme de Docteur Francus.
 
 Ce nom évoque à la fois le souvenir d'une vocation médicale, le goût de
