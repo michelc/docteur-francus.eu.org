@@ -159,6 +159,14 @@ hr {
   text-align: justify;
 }
 
+.hr {
+  font-size: smaller;
+  letter-spacing: .5rem;
+  line-height: .7rem;
+  margin: 0;
+  text-align: center;
+}
+
 
 /* Footer
    ========================================================================== */
