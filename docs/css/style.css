@@ -114,12 +114,19 @@ h3 {
 }
 
 h4 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   text-align: center;
 }
 
 p {
   text-indent: 1.2rem;
+}
+
+#tltr p {
+  color: #000;
+  font-size: smaller;
+  margin-left: 1.2rem;
+  text-indent: -1.2rem;
 }
 
 p.tab {
@@ -151,7 +158,6 @@ hr {
   font-size: small;
   text-align: justify;
 }
-
 
 
 /* Footer

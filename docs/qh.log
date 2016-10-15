@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 15/10/2016 11:33:48
+date: 15/10/2016 12:30:08
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
@@ -19,6 +19,30 @@ WRITE: /pilat/index.md
 mkdir: /privas
 WRITE: /privas/index.md
 mkdir: /vivarais
-WRITE: /vivarais/0.md
+WRITE: /vivarais/00.md
+WRITE: /vivarais/01.md
+WRITE: /vivarais/02.md
+WRITE: /vivarais/03.md
+WRITE: /vivarais/04.md
+WRITE: /vivarais/05.md
+WRITE: /vivarais/06.md
+WRITE: /vivarais/07.md
+WRITE: /vivarais/08.md
+WRITE: /vivarais/09.md
+WRITE: /vivarais/10.md
+WRITE: /vivarais/11.md
+WRITE: /vivarais/12.md
+WRITE: /vivarais/13.md
+WRITE: /vivarais/14.md
+WRITE: /vivarais/15.md
+WRITE: /vivarais/16.md
+WRITE: /vivarais/17.md
+WRITE: /vivarais/18.md
+WRITE: /vivarais/19.md
+WRITE: /vivarais/20.md
+WRITE: /vivarais/21.md
+WRITE: /vivarais/22.md
+WRITE: /vivarais/23.md
+WRITE: /vivarais/24.md
 WRITE: /vivarais/index.md
 WRITE: /sitemap.md
