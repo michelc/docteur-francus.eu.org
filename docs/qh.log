@@ -1,11 +1,10 @@
 QuickHtml ..
 ---
-date: 13/10/2016 12:47:52
-src: E:\MVC\docteur-francus.eu.org\src
-dist: E:\MVC\docteur-francus.eu.org\dist
+date: 15/10/2016 11:33:48
+src: C:\MVC\docteur-francus.eu.org\src
+docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
-mkdir: /
  copy: /CNAME
 WRITE: /index.md
 touch: /qh.log
@@ -13,6 +12,12 @@ touch: /qh.log
 mkdir: /css
  copy: /css/normalize.css
  copy: /css/style.css
+mkdir: /helvien
+WRITE: /helvien/index.md
+mkdir: /pilat
+WRITE: /pilat/index.md
+mkdir: /privas
+WRITE: /privas/index.md
 mkdir: /vivarais
 WRITE: /vivarais/0.md
 WRITE: /vivarais/index.md

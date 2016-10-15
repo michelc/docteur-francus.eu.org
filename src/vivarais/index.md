@@ -2,7 +2,9 @@
 title: Voyage aux pays volcaniques du Vivarais
 ---
 
-<div id="toc">
+#### 1878
+
+<div id="toc" class="zero">
 
 0. [Lettre à un ancien professeur du Collège de Privas](0.html)
 0. De Livron à Rochemaure

@@ -99,7 +99,7 @@ ol {
   margin-left: 3rem;
 }
 
-#toc ol :first-child {
+.zero ol :first-child {
   list-style: none;
 }
 
@@ -110,6 +110,11 @@ ol {
 h3 {
   font-size: 1.2rem;
   margin-bottom: 3rem;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.2rem;
   text-align: center;
 }
 
