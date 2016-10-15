@@ -129,6 +129,10 @@ p {
   text-indent: -1.2rem;
 }
 
+.scaps p {
+  font-variant: small-caps;
+}
+
 p.tab {
   text-indent: 3.5rem;
 }
