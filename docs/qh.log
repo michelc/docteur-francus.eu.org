@@ -1,10 +1,11 @@
 QuickHtml ..
 ---
-date: 15/10/2016 15:04:41
+date: 15/10/2016 18:44:27
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
+mkdir: /
  copy: /CNAME
 WRITE: /index.md
 touch: /qh.log
