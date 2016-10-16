@@ -78,7 +78,6 @@ h2 a {
 
 header hr {
   background-color: #111;
-  border: 0;
   height: 1px;
   margin: 3rem 42%;
 }
@@ -138,7 +137,6 @@ p.tab {
 }
 
 p.end {
-  font-size: smaller;
   margin-right: 1.2rem;
   text-align: right;
   text-indent: 0.5rem;
@@ -149,27 +147,33 @@ p a {
 }
 
 a[href="#notes"] {
-  font-size: smaller;
   font-weight: bold;
   margin: 0 .2rem;
 }
 
-hr {
+#notes hr {
+  background-color: #111;
+  height: 1px;
   margin: 1.2rem 0;
 }
 
 #notes li {
-  font-size: small;
+  font-size: .75rem;
   text-align: justify;
 }
 
-.hr {
-  font-size: smaller;
-  letter-spacing: .5rem;
-  line-height: .7rem;
+hr {
+  border: 0;
+  font-size: .75rem;
+  height: 1.3rem;
+  letter-spacing: .45rem;
+  line-height: .65rem;
   margin: 0;
   text-align: center;
 }
+
+hr:before { content: '*'; display: block; }
+hr:after { content: '* *'; display: block; }
 
 
 /* Footer
