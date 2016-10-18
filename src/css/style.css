@@ -143,10 +143,6 @@ p.end {
   text-indent: 0.5rem;
 }
 
-p a {
-  text-decoration: underline;
-}
-
 a[href="#notes"] {
   font-weight: bold;
   margin: 0 .2rem;
@@ -178,11 +174,33 @@ hr:before { content: '*'; display: block; }
 hr:after { content: '* *'; display: block; }
 
 
+/* Next chapter button
+   ========================================================================== */
+
+#next p {
+  margin: 3rem 0 2rem 0;
+  text-align: center;
+  text-indent: 0;
+}
+
+#next p a {
+  background-color: green;
+  border-radius: 20px;
+  color: white;
+  padding: .2rem 2rem .3rem 2rem;
+}
+
+#next p a:hover,
+#next p a:focus {
+  text-decoration: none;
+}
+
+
 /* Footer
    ========================================================================== */
 
 footer {
-  margin: 2rem 0;
+  margin: 3rem 0 0 0;
   text-align: center;
 }
 
