@@ -31,6 +31,7 @@ body {
   max-width: 48rem;
   padding: 1rem;
   text-align: justify;
+  width: 100%;
 }
 
 
@@ -205,25 +206,41 @@ footer {
 }
 
 
-/* Smartphone (landscape)
+/* Smartphone landscape (448px)
    ========================================================================== */
 
 @media (min-width: 28rem) {
   html {
     font-size: 16px;
-    line-height: 1.6;
+  }
+  .container {
+    max-width: 32rem;
+    padding: 1rem 2rem;
   }
 }
 
 
-/* Tablet & desktop
+/* Tablet (768px)
    ========================================================================== */
 
 @media (min-width: 48rem) {
   html {
     font-size: 20px;
-    line-height: 1.4;
   }
+  .container {
+    max-width: 48rem;
+    padding: 1rem 7.2rem;
+  }
+  #mazon .container {
+    padding: 1rem 4.2rem;
+  }
+}
+
+
+/* Desktop (1024px)
+   ========================================================================== */
+
+@media (min-width: 64rem) {
   body {
     background-color: #f8f8f8;
   }
@@ -267,5 +284,8 @@ footer {
   }
   p {
     margin: .33rem;
+  }
+  #next {
+    display: none;
   }
 }
