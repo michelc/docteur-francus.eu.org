@@ -1,7 +1,7 @@
 ---
-title: Albin Mazon
-id: mazon
-description: Albin Mazon est un journaliste et un historien français. Sous le pseudonyme de Docteur Francus, il est l'auteur de nombreux ouvrages dont des récits de voyages en Ardèche
+title: "Albin Mazon"
+id: "mazon"
+description: "Albin Mazon est un journaliste et un historien français. Sous le pseudonyme de Docteur Francus, il est l'auteur de nombreux ouvrages dont des récits de voyages en Ardèche"
 ---
 
 Charles Albin Mazon est un journaliste et un historien français, né à

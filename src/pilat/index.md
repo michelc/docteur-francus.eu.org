@@ -1,6 +1,6 @@
 ---
-title: Voyage humoristique, politique et philosophique au mont Pilat
-description: La table des matières du livre "Voyage humoristique, politique et philosophique au mont Pilat" du Docteur Francus (Albin Mazon) publié en 1890 par l'Imprimerie du Salut Public de Lyon
+title: "Voyage humoristique, politique et philosophique au mont Pilat"
+description: "La table des matières du livre \"Voyage humoristique, politique et philosophique au mont Pilat\" du Docteur Francus (Albin Mazon) publié en 1890 par l'Imprimerie du Salut Public de Lyon"
 ---
 
 #### 1890

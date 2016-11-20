@@ -1,6 +1,6 @@
 ---
-title: Voyage aux pays volcaniques du Vivarais
-description: Le livre "Voyage aux pays volcaniques du Vivarais" du Docteur Francus (Albin Mazon) publié en 1878 par l'Imprimerie Typographique Roure de Privas
+title: "Voyage aux pays volcaniques du Vivarais"
+description: "Le livre \"Voyage aux pays volcaniques du Vivarais\" du Docteur Francus (Albin Mazon) publié en 1878 par l'Imprimerie Typographique Roure de Privas"
 ---
 
 #### 1878
