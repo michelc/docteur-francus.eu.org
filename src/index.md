@@ -44,7 +44,6 @@ volume de la série des __Voyages du Docteur Francus__.
 * [Voyage aux pays volcaniques du Vivarais](./vivarais/) (1878)
 * Voyage autour de Valgorge (1879)
 * [Voyage autour de Privas](./privas/) (1882)
-* Voyage au pays des Boutières (1884)
 * Voyage dans le midi de l'Ardèche (1884)
 * Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche (1885)
 * [Voyage au pays Helvien](./helvien/) (1885)
@@ -52,7 +51,8 @@ volume de la série des __Voyages du Docteur Francus__.
 * Voyage autour de Crussol (1888)
 * [Voyage humoristique, politique et philosophique au mont Pilat](./pilat/) (1890)
 * Voyage fantaisiste et sérieux à travers l'Ardèche et la Haute-Loire (1894)
-* Voyage autour d'Annonay (1901)
+* [Voyage autour d'Annonay](./annonay/) (1901)
+* [Voyage au pays des Boutières](./boutieres/) (1902)
 * Voyage humoristique dans le Haut Vivarais (1905)
 
 Albin Mazon est mort à Paris le 29 février 1908. Il est enterré au cimetière de

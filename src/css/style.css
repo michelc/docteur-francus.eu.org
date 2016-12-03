@@ -104,6 +104,10 @@ ol {
   list-style: none;
 }
 
+#boutieres ol :last-child {
+  list-style: none;
+}
+
 
 /* Texts
    ========================================================================== */
