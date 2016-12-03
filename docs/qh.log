@@ -1,16 +1,19 @@
 QuickHtml ..
 ---
-date: 20/11/2016 10:37:54
+date: 03/12/2016 18:24:08
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
-mkdir: /
  copy: /CNAME
 write: /index.md
 touch: /qh.log
 write: /robots.md
+mkdir: /annonay
+write: /annonay/index.md
+mkdir: /boutieres
+write: /boutieres/index.md
 mkdir: /css
  copy: /css/normalize.css
  copy: /css/style.css
@@ -50,4 +53,4 @@ write: /vivarais/index.md
 ALERT: *** /vivarais/_index.md.old with unexpected file extension ***
 write: /sitemap.md
 ---
-Site built in 0,73 seconds (1 alert)
+Site built in 0,51 seconds (1 alert)
