@@ -45,7 +45,7 @@ volume de la série des __Voyages du Docteur Francus__.
 * Voyage autour de Valgorge (1879)
 * [Voyage autour de Privas](./privas/) (1882)
 * Voyage dans le midi de l'Ardèche (1884)
-* Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche (1885)
+* [Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche](./riviere-ardeche/) (1885)
 * [Voyage au pays Helvien](./helvien/) (1885)
 * Voyage au Bourg-Saint-Andéol (1886)
 * Voyage autour de Crussol (1888)

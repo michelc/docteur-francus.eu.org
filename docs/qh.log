@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 03/12/2016 18:31:08
+date: 18/12/2016 22:04:04
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
@@ -24,6 +24,8 @@ mkdir: /pilat
 write: /pilat/index.md
 mkdir: /privas
 write: /privas/index.md
+mkdir: /riviere-ardeche
+write: /riviere-ardeche/index.md
 mkdir: /vivarais
 write: /vivarais/00.md
 write: /vivarais/01.md
@@ -54,4 +56,4 @@ write: /vivarais/index.md
 ALERT: *** /vivarais/_index.md.old with unexpected file extension ***
 write: /sitemap.md
 ---
-Site built in 0,50 seconds (1 alert)
+Site built in 0,52 seconds (1 alert)
