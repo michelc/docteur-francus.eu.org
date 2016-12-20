@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 18/12/2016 22:04:04
+date: 20/12/2016 18:58:02
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
@@ -20,6 +20,8 @@ mkdir: /css
  copy: /css/style.css
 mkdir: /helvien
 write: /helvien/index.md
+mkdir: /images
+ copy: /images/docteur-francus.jpg
 mkdir: /pilat
 write: /pilat/index.md
 mkdir: /privas
@@ -56,4 +58,4 @@ write: /vivarais/index.md
 ALERT: *** /vivarais/_index.md.old with unexpected file extension ***
 write: /sitemap.md
 ---
-Site built in 0,52 seconds (1 alert)
+Site built in 0,72 seconds (1 alert)

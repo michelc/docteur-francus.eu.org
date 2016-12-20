@@ -179,6 +179,19 @@ hr:before { content: '*'; display: block; }
 hr:after { content: '* *'; display: block; }
 
 
+/* Images
+   ========================================================================== */
+
+img {
+  max-width: 100%;
+  max-width: 300px;
+}
+div.img p {
+  text-align: center;
+  text-indent: 0;
+}
+
+
 /* Next chapter button
    ========================================================================== */
 

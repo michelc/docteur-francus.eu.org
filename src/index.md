@@ -31,6 +31,12 @@ Après dix années d'éloignement, il se réfugie à Paris pour prendre la direc
 des services télégraphiques de l'Agence Havas. A l'occasion du rattachement de
 Nice à la France, il est décoré de la Légion d'honneur le 15 août 1862.
 
+<div class="img">
+
+![Charles-Albin Mazon (1828-1908)](./images/docteur-francus.jpg)
+
+</div>
+
 A sa retraite en 1890, il se consacre à l'histoire de son pays natal, le
 Vivarais, devenu le département de l'Ardèche. Infatigable explorateur et
 historien du département, Albin Mazon est l'auteur de nombreux ouvrages dont des
