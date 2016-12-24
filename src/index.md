@@ -37,10 +37,11 @@ Nice à la France, il est décoré de la Légion d'honneur le 15 août 1862.
 
 </div>
 
-A sa retraite en 1890, il se consacre à l'histoire de son pays natal, le
-Vivarais, devenu le département de l'Ardèche. Infatigable explorateur et
-historien du département, Albin Mazon est l'auteur de nombreux ouvrages dont des
-récits de voyages en Ardèche publiés sous le pseudonyme de Docteur Francus.
+A sa retraite en 1890, il se consacre entièrement à l'histoire de son pays
+natal, le Vivarais, devenu le département de l'Ardèche. Infatigable explorateur
+et historien du département, Albin Mazon est l'auteur de nombreux ouvrages dont
+treize récits de voyages en Ardèche publiés sous le pseudonyme de Docteur
+Francus.
 
 Ce nom évoque à la fois le souvenir d'une vocation médicale, le goût de
 l'histoire ancienne, l'amour du pays, le franc-parler, le souci d'observer les
@@ -63,7 +64,8 @@ volume de la série des __Voyages du Docteur Francus__.
 
 Albin Mazon est mort à Paris le 29 février 1908. Il est enterré au cimetière de
 Privas où il possédait une maison, place des Mobiles, en face de la demeure de
-M. Paul d'Albigny.
+M. Paul d'Albigny avec qui il avait fondé la
+[Revue du Vivarais](http://www.revueduvivarais.fr/).
 
 Cet érudit chercheur a fait don du fruit de son travail d'historien, constitué
 de notes, lettres, coupures de presse, documents originaux... Pour Albin Mazon,
