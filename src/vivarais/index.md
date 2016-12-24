@@ -9,7 +9,7 @@ description: "Le livre \"Voyage aux pays volcaniques du Vivarais\" du Docteur Fr
 
 0. [Lettre à un ancien professeur du Collège de Privas](00.html)
 0. [De Livron à Rochemaure](01.html)
-0. Le Chenavari
+0. [Le Chenavari](02.html)
 0. Rochemaure
 0. Alba Augusta Helviorum
 0. Une promenade à travers les âges

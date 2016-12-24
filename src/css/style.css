@@ -145,7 +145,16 @@ p.tab {
 p.end {
   margin-right: 1.2rem;
   text-align: right;
-  text-indent: 0.5rem;
+  text-indent: .5rem;
+}
+
+blockquote {
+  font-size: smaller;
+  margin-left: 1.2rem;
+}
+
+blockquote p {
+  text-indent: 0;
 }
 
 a[href="#notes"] {
