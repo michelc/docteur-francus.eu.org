@@ -69,7 +69,7 @@ M. Paul d'Albigny avec qui il avait fondé la
 
 Cet érudit chercheur a fait don du fruit de son travail d'historien, constitué
 de notes, lettres, coupures de presse, documents originaux... Pour Albin Mazon,
-cette documentation qui va de 1184 au XX ème siècle, devait servir à un
+cette documentation qui va de 1184 au XXᵉ siècle, devait servir à un
 dictionnaire "historique, géographique, biographique, bibliographique,
 industriel et commercial" de l'Ardèche qui n'a jamais vu le jour.
 

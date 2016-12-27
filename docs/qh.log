@@ -1,8 +1,8 @@
-QuickHtml ..
+QuickHtml \MVC\docteur-francus.eu.org
 ---
-date: 24/12/2016 19:29:20
-src: C:\MVC\docteur-francus.eu.org\src
-docs: C:\MVC\docteur-francus.eu.org\docs
+date: 27/12/2016 17:19:47
+src: c:\MVC\docteur-francus.eu.org\src
+docs: c:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
@@ -21,6 +21,8 @@ mkdir: /helvien
 write: /helvien/index.md
 mkdir: /images
  copy: /images/docteur-francus.jpg
+ copy: /images/vivarais-29.gif
+ copy: /images/vivarais-34.gif
 mkdir: /pilat
 write: /pilat/index.md
 mkdir: /privas
@@ -54,7 +56,6 @@ write: /vivarais/22.md
 write: /vivarais/23.md
 write: /vivarais/24.md
 write: /vivarais/index.md
-ALERT: *** /vivarais/_index.md.old with unexpected file extension ***
 write: /sitemap.md
 ---
-Site built in 0,56 seconds (1 alert)
+Site built in 2,36 seconds 
