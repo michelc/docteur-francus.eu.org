@@ -202,6 +202,36 @@ hr:before { content: '*'; display: block; }
 hr:after { content: '* *'; display: block; }
 
 
+/* Nomenclature des terrains
+   (Voyage aux pays volcaniques du Vivarais - chapitre VI)
+   ========================================================================== */
+
+.terrains {
+  line-height: 1;
+  margin: .25rem 0;
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+.terrains caption {
+  font-style: italic;
+}
+
+.terrains div {
+  border-left: 2px dashed #777;
+  padding-left: 1rem;
+}
+
+.terrains td {
+  padding: .5rem;
+}
+
+.terrains td:first-child {
+  text-align: center;
+  width: 30%;
+}
+
+
 /* Images
    ========================================================================== */
 
