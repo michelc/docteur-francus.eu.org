@@ -1,12 +1,11 @@
 QuickHtml ..
 ---
-date: 07/01/2017 12:17:55
+date: 08/01/2017 14:24:05
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
-mkdir: /
  copy: /CNAME
 write: /index.md
 touch: /qh.log
@@ -19,6 +18,21 @@ mkdir: /css
  copy: /css/normalize.css
  copy: /css/style.css
 mkdir: /helvien
+write: /helvien/01.md
+write: /helvien/02.md
+write: /helvien/03.md
+write: /helvien/04.md
+write: /helvien/05.md
+write: /helvien/06.md
+write: /helvien/07.md
+write: /helvien/08.md
+write: /helvien/09.md
+write: /helvien/10.md
+write: /helvien/11.md
+write: /helvien/12.md
+write: /helvien/13.md
+write: /helvien/14.md
+write: /helvien/15.md
 write: /helvien/index.md
 mkdir: /images
  copy: /images/docteur-francus.jpg
@@ -29,6 +43,22 @@ write: /pilat/index.md
 mkdir: /privas
 write: /privas/index.md
 mkdir: /riviere-ardeche
+write: /riviere-ardeche/01.md
+write: /riviere-ardeche/02.md
+write: /riviere-ardeche/03.md
+write: /riviere-ardeche/04.md
+write: /riviere-ardeche/05.md
+write: /riviere-ardeche/06.md
+write: /riviere-ardeche/07.md
+write: /riviere-ardeche/08.md
+write: /riviere-ardeche/09.md
+write: /riviere-ardeche/10.md
+write: /riviere-ardeche/11.md
+write: /riviere-ardeche/12.md
+write: /riviere-ardeche/13.md
+write: /riviere-ardeche/14.md
+write: /riviere-ardeche/15.md
+write: /riviere-ardeche/16.md
 write: /riviere-ardeche/index.md
 mkdir: /vivarais
 write: /vivarais/00.md
@@ -59,4 +89,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 0,68 seconds 
+Site built in 1,31 seconds 
