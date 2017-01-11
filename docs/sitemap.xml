@@ -116,7 +116,115 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/pilat/</loc>
-    <lastmod>2016-12-03</lastmod>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/01.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/02.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/03.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/04.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/05.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/06.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/07.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/08.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/09.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/10.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/11.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/12.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/13.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/14.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/15.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/16.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/17.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/pilat/18.html</loc>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -398,19 +506,19 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/01.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/02.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/03.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -422,13 +530,13 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/05.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/06.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -440,13 +548,13 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/08.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/09.html</loc>
-    <lastmod>2017-01-07</lastmod>
+    <lastmod>2017-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>

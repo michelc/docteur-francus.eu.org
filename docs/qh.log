@@ -1,11 +1,12 @@
 QuickHtml ..
 ---
-date: 11/01/2017 12:45:43
-src: E:\MVC\docteur-francus.eu.org\src
-docs: E:\MVC\docteur-francus.eu.org\docs
+date: 11/01/2017 21:57:20
+src: C:\MVC\docteur-francus.eu.org\src
+docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
+mkdir: /
  copy: /CNAME
 write: /index.md
 touch: /qh.log
@@ -39,6 +40,24 @@ mkdir: /images
  copy: /images/vivarais-29.png
  copy: /images/vivarais-34.png
 mkdir: /pilat
+write: /pilat/01.md
+write: /pilat/02.md
+write: /pilat/03.md
+write: /pilat/04.md
+write: /pilat/05.md
+write: /pilat/06.md
+write: /pilat/07.md
+write: /pilat/08.md
+write: /pilat/09.md
+write: /pilat/10.md
+write: /pilat/11.md
+write: /pilat/12.md
+write: /pilat/13.md
+write: /pilat/14.md
+write: /pilat/15.md
+write: /pilat/16.md
+write: /pilat/17.md
+write: /pilat/18.md
 write: /pilat/index.md
 mkdir: /privas
 write: /privas/01.md
@@ -115,4 +134,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 0,51 seconds 
+Site built in 1,40 seconds 
