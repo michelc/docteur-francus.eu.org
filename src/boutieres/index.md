@@ -172,7 +172,7 @@ Lafont de Savines éduquant un Dauphin. -- La mort du poète Christophle de Gamo
 Chambaud. -- Rochemure. -- Gluiras. -- La pomme de terre cultivée en Vivarais
 plus d'un siècle avant Parmentier. -- Les aventures militaires de Chalancon. --
 Les tentatives camisardes de 1704 et 1709. -- Les bons conseils du pasteur
-Corteix et d'Antoine Court. -- Quelques réflexions philosophiques
+Corteiz et d'Antoine Court. -- Quelques réflexions philosophiques
 
 </div>
 
