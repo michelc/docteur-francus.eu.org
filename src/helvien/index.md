@@ -41,7 +41,7 @@ helvienne. -- Le plus ancien marchand de vin du Vivarais. -- Sévirs, quatuorvir
 et quindecemvirs d'Albe. -- Saint-Restitut à Albe. -- La date de la destruction
 d'Albe. -- La pierre milliaire du bois de Léou. -- Où l'absence d'un musée
 départemental se fait sentir. -- Le dieu Mercure. -- Les trois prieurés d'Aps.
--- Les ruines d'Albe au XVIIᵉ et au XVIIIᵉ siècles. -- L'église moderne. --
+-- Les ruines d'Albe au XVII^e^ et au XVIII^e^ siècles. -- L'église moderne. --
 Brutus. -- Les barons de Deux-Chiens. -- Les anciens seigneurs d'Aps, St-Pons,
 Sceautres et Aubignas. -- Le château d'Aps. -- Le docteur Gaillard. -- L'abbé
 Terme. -- Une tempête éternelle dans un verre d'eau.
@@ -201,10 +201,10 @@ La légende des chanoines laïques. -- Une sentence arbitrale de l'archévêque 
 Vienne entre l'évêque de Viviers et son chapitre. -- Le droit au sel. -- Les
 fiefs de l'évêque, du chapitre et de l'université. -- Dissensions perpétuelles
 de l'évêque et du chapitre. -- L'université des prêtres de Viviers. -- La
-commune de Viviers. -- Une élection municipale au XIVᵉ siècle. -- Une enquête de
-_conmodo et incommodo_ au XVᵉ siècle. -- Les Juifs à Viviers. -- La confrérie de
-la Cloche. -- Les charivaris. -- Le cardinal de Brogny. -- Une élection
-schismatique. -- Claude de Tournon et François 1<sup>er</sup>.
+commune de Viviers. -- Une élection municipale au XIV^e^ siècle. -- Une enquête
+de _commodo et incommodo_ au XV^e^ siècle. -- Les Juifs à Viviers. -- La
+confrérie de la Cloche. -- Les charivaris. -- Le cardinal de Brogny. -- Une
+élection schismatique. -- Claude de Tournon et François 1^er^.
 
 </div>
 

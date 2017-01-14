@@ -315,7 +315,7 @@ sorciers à Paris et en province. -- Le secret des sorciers. -- Le curé-médeci
 
 <div id="tltr">
 
-Une église cathédrale au Vᵉ siècle et son baptistère. -- L'ancienne piscine
+Une église cathédrale au V^e^ siècle et son baptistère. -- L'ancienne piscine
 romaine. -- L'ermitage de St-Pierre. -- Où sont les bons vins d'autrefois ? --
 Les frères Allignol et leur livre : _De l'état actuel du clergé en France_. --
 L'inamovibilité des desservants et la mobilité des préfets. -- La
@@ -394,9 +394,9 @@ Privas.
 
 <div id="tltr">
 
-La basse vallée de l'Ouvèze. -- St-Alban. -- Les eaux de Celles au XVIIᵉ siècle.
--- La géologie de Celles. -- Les huit sources de la station. -- Le docteur
-Barrier. -- L'homme est une machine électrique. -- Absorption des sels
+La basse vallée de l'Ouvèze. -- St-Alban. -- Les eaux de Celles au XVII^e^
+siècle. -- La géologie de Celles. -- Les huit sources de la station. -- Le
+docteur Barrier. -- L'homme est une machine électrique. -- Absorption des sels
 métalliques par la peau. -- La cuisine des eaux et des roches de Celles. -- Les
 succès de Barrier. -- Le château de la Voulte. -- Les anciens seigneurs. --
 L'église. -- Défaite des Anglais. -- Squelettes d'éléphants. -- Le soufflet de

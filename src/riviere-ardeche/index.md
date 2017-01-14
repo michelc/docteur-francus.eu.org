@@ -81,10 +81,11 @@ helvien. -- La famille Tastevin. -- Un roi d'Yvetot.
 
 Des Salles à Balazuc. -- Type maure. -- La tour prisonière. -- Les barons de
 Balazuc. -- La confrérie de la Vache. -- Le manque d'arbres. -- La Borie. -- Les
-habitants et les habitués de château au XVII° siècle. -- Jacqueline de Borne. --
-L'inventaire du mobilier. -- Ce que valent les traditions locales. -- Le verre
-d'eau. -- Chauzon. -- Une rencontre inattendue. -- Les myopes. -- La pierre
-milliaire de la Croix des Peyrous. -- Dans les oseraies. -- L'hôtel Laurion.
+habitants et les habitués de château au XVII^e^ siècle. -- Jacqueline de Borne.
+-- L'inventaire du mobilier. -- Ce que valent les traditions locales. -- Le
+verre d'eau. -- Chauzon. -- Une rencontre inattendue. -- Les myopes. -- La
+pierre milliaire de la Croix des Peyrous. -- Dans les oseraies. -- L'hôtel
+Laurion.
 
 </div>
 
@@ -184,7 +185,7 @@ du cardinal.
 Donations de 1220 et 1228. -- Vierne et Viernette. -- Baladun et Balazuc. --
 Traditions locales. -- La _gran piado_ du cheval Bayard. -- Le château de la
 Fère. -- Le crâne de la châtelaine. -- Les bois du Lôou et la chanson de
-M<sup>me</sup> Vierne.
+M^me^ Vierne.
 
 </div>
 
