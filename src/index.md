@@ -33,7 +33,7 @@ Nice à la France, il est décoré de la Légion d'honneur le 15 août 1862.
 
 <div class="img">
 
-![Charles-Albin Mazon (1828-1908)](./images/docteur-francus.jpg)
+![Charles Albin Mazon](./images/docteur-francus.jpg)
 
 </div>
 
