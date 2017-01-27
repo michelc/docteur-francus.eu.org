@@ -149,8 +149,7 @@ p.end {
 }
 
 blockquote {
-  font-size: smaller;
-  margin-left: 1.2rem;
+  margin-left: 2rem;
 }
 
 blockquote p {
@@ -286,6 +285,10 @@ footer {
   .container {
     max-width: 32rem;
     padding: 1rem 2rem;
+  }
+  blockquote {
+    font-size: .95rem;
+    letter-spacing: -1px;
   }
 }
 

@@ -1,8 +1,8 @@
 QuickHtml ..
 ---
-date: 26/01/2017 12:24:43
-src: E:\MVC\docteur-francus.eu.org\src
-docs: E:\MVC\docteur-francus.eu.org\docs
+date: 27/01/2017 12:40:23
+src: C:\MVC\docteur-francus.eu.org\src
+docs: C:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
@@ -59,4 +59,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 0,59 seconds 
+Site built in 1,24 seconds 
