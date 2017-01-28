@@ -75,5 +75,5 @@ industriel et commercial" de l'Ardèche qui n'a jamais vu le jour.
 
 Aujourd'hui numérisés et conservés aux Archives départementales, les registres
 de son Encyclopédie de l'Ardèche constituent une partie substantielle du [Fonds
-Mazon](http://archives.ardeche.fr/Accueil/Consulter_les_archives_numerisees/mazon/Encyclopedie)
+Albin Mazon](http://archives.ardeche.fr/Accueil/Consulter_les_archives_numerisees/mazon/Encyclopedie)
 consultable en ligne.
