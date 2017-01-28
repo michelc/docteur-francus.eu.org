@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 27/01/2017 12:40:23
+date: 28/01/2017 11:00:05
 src: C:\MVC\docteur-francus.eu.org\src
 docs: C:\MVC\docteur-francus.eu.org\docs
 ---
@@ -22,6 +22,7 @@ mkdir: /helvien
 write: /helvien/index.md
 mkdir: /images
  copy: /images/docteur-francus.jpg
+ copy: /images/vivarais-225.png
  copy: /images/vivarais-29.png
  copy: /images/vivarais-34.png
 mkdir: /pilat
@@ -59,4 +60,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 1,24 seconds 
+Site built in 1,14 seconds 
