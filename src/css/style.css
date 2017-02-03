@@ -161,11 +161,10 @@ a[href="#notes"] {
   margin: 0 .2rem;
 }
 
-#notes hr {
-  background-color: #111;
-  height: 1px;
-  margin: 1.2rem 0;
-  overflow-y: hidden;
+#notes {
+  border-top: 1px solid #111;
+  margin-top: 1.2rem;
+  padding-top: 1.2rem;
 }
 
 #notes li {
