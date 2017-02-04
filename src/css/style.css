@@ -61,7 +61,7 @@ header {
 h1,
 h2 {
   font-size: 1.3rem;
-  margin: 1rem 0;
+  margin: 1rem 0 .25rem 0;
   text-transform: uppercase;
   transform: scale(1.1, 1);
 }
@@ -76,6 +76,9 @@ h2 {
 h2 a {
   color: green !important;
 }
+
+h5 { margin-top: 0; }
+#mazon h5 { display: none; }
 
 header hr {
   background-color: #111;

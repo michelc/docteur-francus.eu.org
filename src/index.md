@@ -40,13 +40,13 @@ Nice à la France, il est décoré de la Légion d'honneur le 15 août 1862.
 A sa retraite en 1890, il se consacre entièrement à l'histoire de son pays
 natal, le Vivarais, devenu le département de l'Ardèche. Infatigable explorateur
 et historien du département, Albin Mazon est l'auteur de nombreux ouvrages dont
-treize récits de voyages en Ardèche publiés sous le pseudonyme de Docteur
-Francus.
+treize récits de voyages en Ardèche publiés sous le pseudonyme de "Docteur
+Francus".
 
 Ce nom évoque à la fois le souvenir d'une vocation médicale, le goût de
 l'histoire ancienne, l'amour du pays, le franc-parler, le souci d'observer les
 maux et d'y chercher remède... Tous ces éléments sont présents dans chaque
-volume de la série des __Voyages du Docteur Francus__.
+volume de la série des "__Voyages du Docteur Francus__".
 
 * [Voyage aux pays volcaniques du Vivarais](./vivarais/) (1878)
 * Voyage autour de Valgorge (1879)
