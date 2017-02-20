@@ -154,6 +154,9 @@ p.end {
 blockquote {
   margin-left: 2rem;
 }
+.vers blockquote {
+  margin-left: 1.2rem;
+}
 
 blockquote p {
   text-indent: 0;
@@ -291,6 +294,9 @@ footer {
   blockquote {
     font-size: .95rem;
     letter-spacing: -1px;
+  }
+  .vers blockquote {
+    font-size: .9rem;
   }
 }
 
