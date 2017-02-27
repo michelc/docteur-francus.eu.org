@@ -191,6 +191,11 @@ a[href="#notes"] {
   transform: scale(.8, 1);
 }
 
+#notes strong {
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
 hr {
   border: 0;
   font-size: .75rem;
