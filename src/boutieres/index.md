@@ -2,7 +2,6 @@
 title: "Voyage au pays des Boutières"
 alttitle: "Voyage au pays des Boutières. La région de Vernoux"
 description: "La table des matières du livre \"Voyage au pays des Boutières\" du Docteur Francus (Albin Mazon) publié en 1902"
-id: "boutieres"
 ---
 
 #### 1902

@@ -1,6 +1,6 @@
 ---
 title: "Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche"
-description: "La table des matières du livre "Voyage archéologique et pittoresque, historique et géologique, fantaisiste et sentimental, économique et social, philosophique et politique, à pied, à bateau, en voiture et à cheval, le long de la rivière d'Ardèche" du Docteur Francus (Albin Mazon) publié en 1885 par l'Imprimerie du Patriote de Privas"
+description: "La table des matières du livre \"Voyage archéologique et pittoresque, historique et géologique, fantaisiste et sentimental, économique et social, philosophique et politique, à pied, à bateau, en voiture et à cheval, le long de la rivière d'Ardèche\" du Docteur Francus (Albin Mazon) publié en 1885 par l'Imprimerie du Patriote de Privas"
 ---
 
 #### 1885

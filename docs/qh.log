@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 27/02/2017 12:14:53
+date: 07/03/2017 12:43:09
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -13,11 +13,15 @@ touch: /qh.log
 write: /robots.md
 mkdir: /annonay
 write: /annonay/index.md
+mkdir: /bourg-st-andeol
+write: /bourg-st-andeol/index.md
 mkdir: /boutieres
 write: /boutieres/index.md
 mkdir: /css
  copy: /css/normalize.css
  copy: /css/style.css
+mkdir: /haute-loire
+write: /haute-loire/index.md
 mkdir: /helvien
 write: /helvien/index.md
 mkdir: /images
@@ -25,12 +29,16 @@ mkdir: /images
  copy: /images/vivarais-225.png
  copy: /images/vivarais-29.png
  copy: /images/vivarais-34.png
+mkdir: /midi-ardeche
+write: /midi-ardeche/index.md
 mkdir: /pilat
 write: /pilat/index.md
 mkdir: /privas
 write: /privas/index.md
 mkdir: /riviere-ardeche
 write: /riviere-ardeche/index.md
+mkdir: /valgorge
+write: /valgorge/index.md
 mkdir: /vivarais
 write: /vivarais/00.md
 write: /vivarais/01.md
@@ -60,4 +68,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 0,63 seconds 
+Site built in 0,70 seconds 
