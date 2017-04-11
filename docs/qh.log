@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 16/03/2017 12:39:38
+date: 11/04/2017 13:14:13
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -23,6 +23,21 @@ mkdir: /css
 mkdir: /haute-loire
 write: /haute-loire/index.md
 mkdir: /helvien
+write: /helvien/01.md
+write: /helvien/02.md
+write: /helvien/03.md
+write: /helvien/04.md
+write: /helvien/05.md
+write: /helvien/06.md
+write: /helvien/07.md
+write: /helvien/08.md
+write: /helvien/09.md
+write: /helvien/10.md
+write: /helvien/11.md
+write: /helvien/12.md
+write: /helvien/13.md
+write: /helvien/14.md
+write: /helvien/15.md
 write: /helvien/index.md
 mkdir: /images
  copy: /images/docteur-francus.jpg
@@ -68,4 +83,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 0,71 seconds 
+Site built in 0,73 seconds 
