@@ -157,6 +157,10 @@ blockquote {
 .vers blockquote {
   margin-left: 1.2rem;
 }
+.centre blockquote {
+  margin-left: 0;
+  text-align: center;
+}
 
 blockquote p {
   text-indent: 0;
