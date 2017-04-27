@@ -145,7 +145,8 @@ p.tab {
   text-indent: 3.5rem;
 }
 
-p.end {
+p.end,
+.end p {
   margin-right: 1.2rem;
   text-align: right;
   text-indent: .5rem;
