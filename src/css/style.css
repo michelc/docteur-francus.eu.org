@@ -137,7 +137,8 @@ p {
   text-indent: -1.2rem;
 }
 
-.scaps p {
+.scaps p,
+p.scaps {
   font-variant: small-caps;
 }
 

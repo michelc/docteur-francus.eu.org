@@ -232,7 +232,7 @@ gibier des Gras. -- Le caillou dans l'avin.
 
 <div id="tltr">
 
-La Gorce. -- Spn vieux château. -- Le curé et la nouvelle église. -- Les
+La Gorce. -- Son vieux château. -- Le curé et la nouvelle église. -- Les
 protestants. -- Violation de sépulture. -- Le capitaine Rousset. -- La pivoine.
 -- La Chadenède. -- La montagne de Leyris.
 
