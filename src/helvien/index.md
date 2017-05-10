@@ -1,6 +1,6 @@
 ---
 title: "Voyage au pays Helvien"
-description: "La table des matières du livre \"Voyage au pays Helvien\" du Docteur Francus (Albin Mazon) publié en 1885 par l'Imprimerie du Patriote de Privas"
+description: "La version ebook du livre \"Voyage au pays Helvien\" du Docteur Francus (Albin Mazon) publié en 1885 par l'Imprimerie du Patriote de Privas"
 ---
 
 #### 1885
