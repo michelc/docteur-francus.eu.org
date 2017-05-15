@@ -32,7 +32,7 @@ description: "La table des matières du livre \"Voyage archéologique et pittore
 
 ### De la source de l'Ardèche à Vals
 
-<div id="tltr">
+<div class="tltr">
 
 Le microsme ardéchois. -- _Vacua verba_. -- La corruption impériale. -- Le petit
 sentier. -- Anes et gens. -- Toasts à la source de l'Ardèche. -- La mer et la
@@ -46,7 +46,7 @@ Auguste Desportes. -- La corruption culinaire.
 
 ### D'Ucel au camp de Jastres
 
-<div id="tltr">
+<div class="tltr">
 
 Le sentier de la béalière. -- Le sorcier de Fontanille. -- L'antiquité d'Ucel.
 -- Destruction du fort par les Aragonais. -- La chapelle de St-Chaffre. -- Le
@@ -63,7 +63,7 @@ l'Echelette. -- Le camp de Jastres. -- Traces de la voie romaine à Croscillac.
 
 ### Vogué et Monsieur Tastevin
 
-<div id="tltr">
+<div class="tltr">
 
 Le village et le château de Vogué. -- La famille de Vogué. -- Le choléra. -- Le
 dévouement des prêtres et les médailles de préfets. -- Le prix-fait du pont de
@@ -77,7 +77,7 @@ helvien. -- La famille Tastevin. -- Un roi d'Yvetot.
 
 ### Balazuc et la châtelaine de la Borie
 
-<div id="tltr">
+<div class="tltr">
 
 Des Salles à Balazuc. -- Type maure. -- La tour prisonière. -- Les barons de
 Balazuc. -- La confrérie de la Vache. -- Le manque d'arbres. -- La Borie. -- Les
@@ -93,7 +93,7 @@ Laurion.
 
 ### La descente de l'Ardèche en bateau
 
-<div id="tltr">
+<div class="tltr">
 
 Les Eldin. -- Les grottes de Vallon. -- Cayre-Creyt. -- L'écho. -- Les rapides.
 -- Le pont d'Arc. -- La fontaine de Vanmale. -- Le château d'Ebbo. -- Chames. --
@@ -111,7 +111,7 @@ universel.
 
 ### Une pointe dans le Gard
 
-<div id="tltr">
+<div class="tltr">
 
 Neuf ans après. -- Une rechute mythologique de Barbe. -- Le père Pestel. -- La
 _Bouto-Vairo_ et le _Raspaliaîre_. -- Le Serre de Barjac. -- Bessas. -- Orgnac.
@@ -127,7 +127,7 @@ de notre ami Barbe. -- Le Pont-Saint-Esprit.
 
 ### St-Martin-d'Ardèche
 
-<div id="tltr">
+<div class="tltr">
 
 Le Bourdelet. -- Baladun. -- St-Just. -- Notre-Dame de Mélinas. -- Le monument
 funéraire d'Antoine du Roure. -- Ce qu'on fait des archives communales en
@@ -148,7 +148,7 @@ pêcheurs d'épaves.
 
 ### La seigneurie de St-Marcel
 
-<div id="tltr">
+<div class="tltr">
 
 Le château de Bernis. -- L'église de St-Marcel. -- St-Etienne-de-Dions. -- La
 suzeraineté de Saint-MArcel disputée entre les comtes de Toulouse et les évêques
@@ -165,7 +165,7 @@ soeur Olivonne.
 
 ### Le cardinal de Bernis
 
-<div id="tltr">
+<div class="tltr">
 
 La santé des enfants. -- Chez les Barnabites du Bourg. -- Au séminaire
 St-Sulpice. -- Poésies de jeunesse. -- Le pays natal. -- _La Religion vengée_.
@@ -180,7 +180,7 @@ du cardinal.
 
 ### Madame Vierne de Baladun
 
-<div id="tltr">
+<div class="tltr">
 
 Donations de 1220 et 1228. -- Vierne et Viernette. -- Baladun et Balazuc. --
 Traditions locales. -- La _gran piado_ du cheval Bayard. -- Le château de la
@@ -193,7 +193,7 @@ M^me^ Vierne.
 
 ### Le plateau de St-Remèze
 
-<div id="tltr">
+<div class="tltr">
 
 Les dolmens de Champvermeil. -- Le banc des fiancés. -- Une bulle de l'Océan. --
 Argile, fontaine et village. -- La plus ancienne histoire de St-Remèze. --
@@ -210,7 +210,7 @@ commune de l'Ardèche sous la Révolution et l'Empire.
 
 ### Le royaume des gourmands
 
-<div id="tltr">
+<div class="tltr">
 
 La dent de Rez. -- Un bel _api_. -- La miellée. -- Le propolis. -- Le miel des
 labiées et le miel du sainfoin. -- Les fleurs mellifiques et celles qui ne le
@@ -230,7 +230,7 @@ gibier des Gras. -- Le caillou dans l'avin.
 
 ### La vallée de l'Ibie
 
-<div id="tltr">
+<div class="tltr">
 
 La Gorce. -- Son vieux château. -- Le curé et la nouvelle église. -- Les
 protestants. -- Violation de sépulture. -- Le capitaine Rousset. -- La pivoine.
@@ -242,7 +242,7 @@ protestants. -- Violation de sépulture. -- Le capitaine Rousset. -- La pivoine.
 
 ### L'abbaye de la Villedieu
 
-<div id="tltr">
+<div class="tltr">
 
 Rochecolombe. -- L'église de Sauveplantade. -- La clé pour marquer les chiens.
 -- La pierre milliaire de St-Germain. -- St-Trouba. -- St-Martin de Bessiac. --
@@ -257,7 +257,7 @@ foires et marchés.
 
 ### Un nouveau tour sur le Coiron
 
-<div id="tltr">
+<div class="tltr">
 
 L'édicule de Lussas. -- _Lucus sacer_. -- Une vengeance municipale. -- _Souï dé
 Lussas, eï rien vi_. -- Hauts dignitaires d'Albe. -- Les inscriptions et les
@@ -272,7 +272,7 @@ famille d'Arlempde. -- L'église de Mirabel.
 
 ### Le Pradel
 
-<div id="tltr">
+<div class="tltr">
 
 Le manoir d'Olivier de Serres. -- Son portrait fait par son fils. -- Progrès
 apparent et plaies cachées. -- L'opinion des écrivains sérieux sur l'influence

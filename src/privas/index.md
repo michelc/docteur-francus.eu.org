@@ -42,7 +42,7 @@ description: "La table des matières du livre \"Voyage autours de Privas\" du Do
 
 ### Mon ami Barbe
 
-<div id="tltr">
+<div class="tltr">
 
 Mon ami Barbe. -- Charalon et Ternis. -- Le dîner d'une chèvre. -- La piscine de
 Cornevis. -- Le carnaval à Privas et en Perse. -- Le président Delichère. -- Le
@@ -55,7 +55,7 @@ de Privas. -- Le viaduc de Charalon.
 
 ### La montagne d'Andance
 
-<div id="tltr">
+<div class="tltr">
 
 La percée d'Alissas. -- La montagne d'Andance. -- Chomérac vu de haut. -- Le
 grand chêne. -- L'orage du 21 juillet 1880. -- La vallée de Barrès. -- La
@@ -70,7 +70,7 @@ Le château du Bois. -- La famille de Bénéfice.
 
 ### La politique et les affaires
 
-<div id="tltr">
+<div class="tltr">
 
 Une famille de travailleurs. -- L'opinion d'un Américain sur les _politicians_.
 -- La politique et le _bar_. -- A la santé des ivrognes ! -- Opinion de M. de
@@ -83,7 +83,7 @@ remouleur.
 
 ### Chomérac
 
-<div id="tltr">
+<div class="tltr">
 
 Chomérac avant l'histoire. -- Occupation romaine. -- Voies romaines. -- Le
 cercueil de plomb trouvé au _Chalen de Mars_. -- Le château. -- Prises et
@@ -100,7 +100,7 @@ Chomérac. -- Le noyer.
 
 ### Le remouleur
 
-<div id="tltr">
+<div class="tltr">
 
 Voyage nocturne. -- Chansons de conscrits. -- Notes d'un voyageur égaré. --
 Chanson huguenote. -- La philosophie du remouleur. -- Un ménage tolérant. -- Une
@@ -114,7 +114,7 @@ Les riches et les pauvres. -- Le réveil.
 
 ### Folies anciennes et folies modernes
 
-<div id="tltr">
+<div class="tltr">
 
 St-Lager-Bressac. -- Gabriel Astier et les petits prophètes. -- Causes
 génératrices du mouvement. -- Le St-Esprit à St-Vincent-de-Barrès. -- Les
@@ -132,7 +132,7 @@ la même chose.
 
 ### Cyprien Combier
 
-<div id="tltr">
+<div class="tltr">
 
 Les récits de voyages. -- L'émigration. -- Un grand défaut de notre caractère
 national. -- Cyprien Combier, d'Alissas. -- Les aventures d'un négociant
@@ -147,7 +147,7 @@ fortune. -- Deux vérités qu'on oublie trop dans l'Ardèche. -- Préjugés et f
 
 ### Charay
 
-<div id="tltr">
+<div class="tltr">
 
 Le monastère de Charay. -- La montagne de Charay. -- L'ancien bois de
 châtaigniers des Basiliens. -- La constitution géologique de Charay. -- Les
@@ -169,7 +169,7 @@ clocher natal.
 
 ### La fontaine de Boulègue
 
-<div id="tltr">
+<div class="tltr">
 
 Le chemin de Freyssenet. -- La source rouge. -- Végétation de montagne. -- La
 tour de Mirabel. -- Le rieu de Masolan. -- Contes de bonne femme. -- La source
@@ -187,7 +187,7 @@ cours d'eau souterrains du Vivarais. -- Le bon Dieu dans les fontaines.
 
 ### Pramailhet
 
-<div id="tltr">
+<div class="tltr">
 
 Antiquité du pèlerinage de Pramailhet. -- Découverte de la statue. --
 Agrandissement de la chapelle en 1781. -- Interdiction du pèlerinage en 1823. --
@@ -204,7 +204,7 @@ extraordinaire mais très-sérieux.
 
 ### Le Coiron et ses volcans
 
-<div id="tltr">
+<div class="tltr">
 
 Les _tomes_ et les _canastres_. -- Freyssenet. -- L'abbé Roux. -- Les filons
 volcaniques du Coiron. -- La formation des vallées. -- Comment un fond de vallée
@@ -223,7 +223,7 @@ chèvres en 1803. -- Un gros ver-luisant. -- L'origine des opinions politiques.
 
 ### Un géologue italien au Coiron
 
-<div id="tltr">
+<div class="tltr">
 
 La monographie du Coiron par le comte Marzari Pencati, de Vicence. -- Faujas de
 St-Fond. -- De Loriol à Aubenas. -- Les vertus fécondantes de l'eau de la
@@ -238,7 +238,7 @@ en 1805. -- Excursion à Rochessauve. -- Tomates et aubergines.
 
 ### Souvenirs de Privas et de ses environs
 
-<div id="tltr">
+<div class="tltr">
 
 La fontaine de Verdus. -- Les organes de Privas. -- L'égalité suprême. -- La
 vieille et la nouvelle église. -- La Récluse. -- Fonderie de deux cloches en
@@ -253,7 +253,7 @@ L'abbé Bourdillon. -- Le cimetière.
 
 ### Privas et Creysseilles
 
-<div id="tltr">
+<div class="tltr">
 
 Privas aux temps géologiques. -- Le Lac. -- La première agglomération humaine
 dans la contrée. -- Privas, faubourg du Petit-Tournon. -- Les voies romaines. --
@@ -270,7 +270,7 @@ qui n'est pas bête. -- Pranles. -- Pierre Durand. -- Gruas.
 
 ### Les Boutières
 
-<div id="tltr">
+<div class="tltr">
 
 Les monts Cémènes. -- Les justices seigneuriales de la région au siècle dernier.
 -- Pourquoi il y a plus de protestants dans les Boutières que dans le reste du
@@ -284,7 +284,7 @@ Vivarais. -- Les grottes de la Jaubernie.
 
 ### Les Balmes de Montbrul
 
-<div id="tltr">
+<div class="tltr">
 
 Un _conseiller !_ -- Notre-Dame-du-Lierre. -- Nouvelle excursion au Coiron. --
 Le château de Cheylus. -- Les anciens seigneurs féodaux. -- Une écrevisse à
@@ -301,7 +301,7 @@ Balmes.
 
 ### Un diner à Saint-Gineis le Tondu
 
-<div id="tltr">
+<div class="tltr">
 
 Le conseiller rôti. -- Propos de table. -- Comment on guérit les _estourils_. --
 Sorciers et sorcières. -- La _rastoulo_. -- La chanson des padgels. -- Les
@@ -313,7 +313,7 @@ sorciers à Paris et en province. -- Le secret des sorciers. -- Le curé-médeci
 
 ### L'église de Mélas et les frères Allignol
 
-<div id="tltr">
+<div class="tltr">
 
 Une église cathédrale au V^e^ siècle et son baptistère. -- L'ancienne piscine
 romaine. -- L'ermitage de St-Pierre. -- Où sont les bons vins d'autrefois ? --
@@ -327,7 +327,7 @@ fonctionnomanie.
 
 ### Le Teil
 
-<div id="tltr">
+<div class="tltr">
 
 La culture du chanvre. -- Echange du Teil contre Donzère. -- Les droits
 souverains des seigneurs du Teil. -- Le péage du Teil. -- Procès entre les
@@ -342,7 +342,7 @@ peintre Xavier Mallet.
 
 ### Les Hilaire de Jovyac
 
-<div id="tltr">
+<div class="tltr">
 
 L'ongle d'un poète et la cruauté d'une dame. -- Le capitaine d'Hilaire,
 gouverneur des Vans. -- Jacques d'Hilaire, seigneur de Jovyac. -- Il enlève
@@ -358,7 +358,7 @@ publique en Vivarais à la fin du siècle dernier.
 
 ### Rochemaure et Cruas
 
-<div id="tltr">
+<div class="tltr">
 
 Un précurseur vivarois de Papin et Fulton. -- Rochemaure sous Charlemagne. --
 Les seigneurs de Rochemaure depuis les temps les plus reculés. -- Les
@@ -375,7 +375,7 @@ monde. -- Un autel donné par un libre-penseur. -- Le tombeau du comte Adhémar.
 
 ### Baïx et le Pouzin
 
-<div id="tltr">
+<div class="tltr">
 
 La vallée de Barrès. -- Baïx-sur-Baïx. -- Le Pouzin du temps des Romains. -- La
 collection du docteur Lamotte. -- La poule et ses poussins. -- La chapelle
@@ -392,7 +392,7 @@ Privas.
 
 ### Les eaux de Celles et la Voulte
 
-<div id="tltr">
+<div class="tltr">
 
 La basse vallée de l'Ouvèze. -- St-Alban. -- Les eaux de Celles au XVII^e^
 siècle. -- La géologie de Celles. -- Les huit sources de la station. -- Le
@@ -409,7 +409,7 @@ sanitaire.
 
 ### La vallée de l'Erieux
 
-<div id="tltr">
+<div class="tltr">
 
 St-Laurent-du-Pape. -- Pontpierre. -- Droits féodaux. -- Le général Rampon. --
 Les hommes d'autrefois et ceux d'aujourd'hui. -- Les Ollières. -- La baronnie de
@@ -422,7 +422,7 @@ L'ancienne et la nouvelle route de St-Sauveur à St-Pierreville.
 
 ### St-Pierreville
 
-<div id="tltr">
+<div class="tltr">
 
 L'eau de Condillac à St-Pierreville. -- Pierre Marcha et le château de Pras. --
 Quelques notes inédites sur l'auteur des _Commentaires du Soldat du Vivarais_.
@@ -439,7 +439,7 @@ chemin de fer de la vallée d'Ajoux. -- Le curé de Gourdon.
 
 ### Le passé et l'avenir de Privas
 
-<div id="tltr">
+<div class="tltr">
 
 Revue chronologique. -- Batailles pour le chef-lieu, de 1790 à 1811. -- Le futur
 chef-lieu, si Privas ne sort pas de son impasse.

@@ -34,7 +34,7 @@ description: "La table des matières du livre \"Voyage autour d'Annonay\" du Doc
 
 ### De Saint-Etienne à Bourg-Argental
 
-<div id="tltr">
+<div class="tltr">
 
 Les voyages. -- Comment on allait autrefois d'Annonay à Paris. -- L'ami Vernède.
 -- La Ricamarie. -- St-Didier-la-Séauve. -- Dunières. -- Un nouveau compagnon de
@@ -50,7 +50,7 @@ nombreuse famille. -- Les magisters et la politique.
 
 ### Saint-Marcel et le barrage du Ternay
 
-<div id="tltr">
+<div class="tltr">
 
 L'étymologie de la Deûme. -- St-Marcel. -- Les communes débaptisées. --
 L'antique _monasterium Sancti Marcelli_. -- La papier Montgolfier. -- Un
@@ -68,7 +68,7 @@ naturels. -- Avantages et facilité de leur construction dans l'Ardèche.
 
 ### Boulieu
 
-<div id="tltr">
+<div class="tltr">
 
 Les anciens remparts et l'église. -- L'inscription du portail. -- Les pompiers
 d'Annonay allant éteindre une aurore boréale. -- Les familles nobles de Boulieu.
@@ -86,7 +86,7 @@ laïques de l'avenir.
 
 ### La question du papier
 
-<div id="tltr">
+<div class="tltr">
 
 Les Montgolfier. -- Une réflexion sur la locomotion aérienne. -- Le papier en
 Orient. -- Les premières papeteries en Auvergne (XIV^e^ siècle). -- Le moulin à
@@ -109,7 +109,7 @@ Vidalon.
 
 ### Le bout de la Deûme
 
-<div id="tltr">
+<div class="tltr">
 
 Les deux rivières d'Annonay. -- Pourquoi c'est la Deûme et non la Cance, qui
 perd son nom au confluent des deux rivières. -- L'ancien lac d'Annonay. -- Les
@@ -123,7 +123,7 @@ Annonay. -- L'eau de Vals et l'eau de Couzan.
 
 ### D'Annonay à Saint-Bonnet-le-Froid
 
-<div id="tltr">
+<div class="tltr">
 
 Le marché. -- Vocance et Voconces. -- L'ancienne famille noble de Vocance. --
 Villevocance. -- Le berceau des Gamon, au hameau des Chambons. --  Vocance. --
@@ -138,7 +138,7 @@ populaires sur les arbres. -- Saint-Bonnet-le-Froid. -- Les jeux maçonniques de
 
 ### Une excursion sur la rive gauche de la Cance
 
-<div id="tltr">
+<div class="tltr">
 
 Les joueurs de boules. -- La Nane. -- Médecins et guérisseurs. -- Châtinais. --
 Montmiandon et Roche-de-Vent. -- Toisieux. -- Burdigne. -- Un diner à l'auberge.
@@ -150,7 +150,7 @@ Montmiandon et Roche-de-Vent. -- Toisieux. -- Burdigne. -- Un diner à l'auberge
 
 ### Vanosc et ses environs
 
-<div id="tltr">
+<div class="tltr">
 
 De Burdigne à Vanosc. -- Une lettre du curé de Vanosc en 1759. -- La misère du
 pays à cette époque. -- Les expéditions de M. de Cintre. -- La défense
@@ -166,7 +166,7 @@ Rouveure. -- La question ouvrière.
 
 ### La Roche Péréandre
 
-<div id="tltr">
+<div class="tltr">
 
 La basse vallée de la Cance. -- Une légende qui ressemble à beaucoup d'autres.
 -- Les observations d'un géologue annonéen sur la Roche Péréandre. -- L'estuaire
@@ -180,7 +180,7 @@ Euréka.
 
 ### Quintenas et N.-D. d'Ay
 
-<div id="tltr">
+<div class="tltr">
 
 Roiffieux. -- Les pommes de terre cultivées dans la région au XVII^e^ siècle. --
 Le clocheron. -- La barrière de la mariée. -- Quintenas. -- Saint-Romain-d'Ay.
@@ -193,7 +193,7 @@ aventures de Saint-Alban-d'Ay pendant la Révolution.
 
 ### Satillieu et ses environs
 
-<div id="tltr">
+<div class="tltr">
 
 Vernède et la réapparition de l'instituteur. -- L'étymologie d'Ay. -- Le tramway
 de Satillieu. -- Quelques notes historiques sur la région. --  Les Pagan, les
@@ -212,7 +212,7 @@ vallée de l'Ay.
 
 ### Arras et Ozon
 
-<div id="tltr">
+<div class="tltr">
 
 Revirand. -- Un journaliste-romancier à Annonay en 1843. -- La vallée du Rhône,
 grande route des nations. -- Le préhistorique dans le haut et le bas Vivarais.
@@ -226,7 +226,7 @@ l'instituteur.
 
 ### Sarras
 
-<div id="tltr">
+<div class="tltr">
 
 Sarras dans les vieilles chartes. -- Son étymologie. -- Le ruisseau de Merdaric.
 -- Le prieuré de l'île de Saint-Vallier ou Sarras. -- Les anciens seigneurs du
@@ -240,7 +240,7 @@ de Carret et la famille de Brenas. -- Un bienfaiteur de Sarras.
 
 ### Au cabaret de Silon
 
-<div id="tltr">
+<div class="tltr">
 
 Le grand Inconnaissable et les mendiants. -- Le port de Silon. -- Le vin blanc
 mousseux du cru. -- Galène et baryte. -- L'Evangile selon Saint-Compayré. -- Le
@@ -253,7 +253,7 @@ St-Bot. -- La Sarrasinière. -- Une nouvelle sortie de Capo.
 
 ### La baronnie de Thorenc et Andance
 
-<div id="tltr">
+<div class="tltr">
 
 Le temple du Châtelet. -- Les publications et le musée de M. Louis Morel. --
 Andance. -- L'église et le prieuré. -- Les biens et les usages de la communauté
@@ -268,7 +268,7 @@ Saint Pierre de Champagne et ses sculptures.
 
 ### Saint-Martin-de-Peyraud
 
-<div id="tltr">
+<div class="tltr">
 
 La Bonne-Font. -- St-Martin a-t-il passé à Peyraud ? -- Le prieuré de Peyraud et
 ses inscriptions obituaires. -- La destruction du château en 1350 et en 1574. --
@@ -281,7 +281,7 @@ les droits de l'homme.
 
 ### Serrières
 
-<div id="tltr">
+<div class="tltr">
 
 Terra Massiliensis. -- Les antiquités de Limony. -- Un prédécesseur de l'abbé
 Kneipp en Vivarais. -- Le Vivarais de M. Bourdin. -- La fertilité du sol à
@@ -298,7 +298,7 @@ Mgr Roche, évêque de Gap. -- Jules Roche. -- Le peintre Charvet. -- Les école
 
 ### Le Plateau
 
-<div id="tltr">
+<div class="tltr">
 
 Peaugres. -- Les démêlés des Célestins avec le seigneur d'Annonay au sujet de la
 justice de Peaugres. -- Bogy. -- Le procès du curé avec les Célestins. --

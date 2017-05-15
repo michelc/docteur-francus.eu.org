@@ -31,7 +31,7 @@ id: "boutieres"
 
 ### Un avant-propos de touriste
 
-<div id="tltr">
+<div class="tltr">
 
 Opportunité de ce nouveau voyage. -- Calvin, roi de France et de Navarre. -- Le
 quartier général des protestants vivarois. -- Pourquoi Dieu nous tient à
@@ -44,7 +44,7 @@ d'un petit coin de terre.
 
 ### De Saint-Péray à Vernoux
 
-<div id="tltr">
+<div class="tltr">
 
 Les Boutières. -- La vallée d'Alboussières. -- Agrippa. -- Boffres. -- Le duc
 d'Aumale abandonne son château à la commune. -- Une donation de Louis XI au
@@ -56,7 +56,7 @@ prieuré de Boffres. -- Les Momiens. -- L'opinion d'Agrippa.
 
 ### Vernoux, son église et le reste
 
-<div id="tltr">
+<div class="tltr">
 
 La géologie du bassin de Vernoux. -- Les coups de pierre contre une croix. --
 Portrait d'Agrippa. -- De St-Agrève à Vernoux, en compagnie de l'ami Barbe. --
@@ -73,7 +73,7 @@ Qu'est-ce qui brouille tout le monde ?
 
 ### A travers la vieille histoire de Vernoux
 
-<div id="tltr">
+<div class="tltr">
 
 La place St-Georges. -- Quelques opuscules de M. Sonier de Lubac sur Vernoux. --
 L'ancienne seigneurie de Vernoux et les seigneurs de la Tourette. -- La famille
@@ -90,7 +90,7 @@ Roue. -- Vernoux en 1760.
 
 ### Vernoux pendant la Révolution et les Cent-Jours
 
-<div id="tltr">
+<div class="tltr">
 
 La fédération de Vernoux (6 Janvier 1790). -- Le royalisme libéral au début de
 Révolution. -- L'héroïsme de M^lle^ d'Apchier. -- Le représentant Rovere dans la
@@ -108,7 +108,7 @@ Ducros.
 
 ### Les notabilités de Vernoux
 
-<div id="tltr">
+<div class="tltr">
 
 Jean Dalicieux et son testament. -- Le colonel Dubois. -- Le commandant Trapier.
 -- L'abbé Sabatier. -- Ses ouvrages. -- Sa réception par le pape Grégoire XVI.
@@ -123,7 +123,7 @@ centenaires ardéchois.
 
 ### Un campagnard huguenot
 
-<div id="tltr">
+<div class="tltr">
 
 Une promenade au Serre de la Roue. -- Les bois de châtaigniers. -- Chênes et
 noyers. -- La maison d'Agrippa. -- Le livre d'Olivier de Serres. -- Les chambas.
@@ -141,7 +141,7 @@ d'Agrippa.
 
 ### Châteauneuf-de-Vernoux
 
-<div id="tltr">
+<div class="tltr">
 
 Bramefan. -- Châteauneuf. -- L'église paroissiale et le prieuré de Saint-Félix.
 -- La démolition du château (1582). -- La saisie judiciaire de ses ruines. -- Le
@@ -159,7 +159,7 @@ juridictions administratives et judiciaires.
 
 ### La baronnie de Chalancon
 
-<div id="tltr">
+<div class="tltr">
 
 Le château de la Tourette et ses seigneurs. -- Chalancon. -- Son ancienne cour
 de justice. -- Diane de Poitiers. -- La baronnie de Chalancon aux Etats du

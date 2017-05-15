@@ -130,23 +130,21 @@ p {
   text-indent: 1.2rem;
 }
 
-#tltr p {
+.tltr p {
   color: #000;
   font-size: smaller;
   margin-left: 1.2rem;
   text-indent: -1.2rem;
 }
 
-.scaps p,
-p.scaps {
+.scaps p {
   font-variant: small-caps;
 }
 
-p.tab {
+.tab p {
   text-indent: 3.5rem;
 }
 
-p.end,
 .end p {
   margin-right: 1.2rem;
   text-align: right;
