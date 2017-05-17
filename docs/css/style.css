@@ -152,14 +152,14 @@ p {
 }
 
 blockquote {
-  margin-left: 2rem;
-}
-.vers blockquote {
+  color: #222;
+  font-size: .85rem;
+  letter-spacing: -1px;
   margin-left: 1.2rem;
+  margin-right: 0;
 }
 .centre blockquote {
   margin-left: 0;
-  margin-right: 0;
   text-align: center;
 }
 
@@ -196,6 +196,7 @@ a[href="#notes"] {
   transform: scale(.8, 1);
 }
 
+blockquote strong,
 #notes strong {
   font-weight: normal;
   font-variant: small-caps;
@@ -302,11 +303,8 @@ footer {
     padding: 1rem 2rem;
   }
   blockquote {
-    font-size: .95rem;
-    letter-spacing: -1px;
-  }
-  .vers blockquote {
-    font-size: .9rem;
+    letter-spacing: 0;
+    margin-left: 2rem;
   }
 }
 

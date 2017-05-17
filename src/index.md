@@ -48,12 +48,12 @@ l'histoire ancienne, l'amour du pays, le franc-parler, le souci d'observer les
 maux et d'y chercher remède... Tous ces éléments sont présents dans chaque
 volume de la série des "__Voyages du Docteur Francus__".
 
-* [Voyage aux pays volcaniques du Vivarais](./vivarais/) (1878)
+* [__Voyage aux pays volcaniques du Vivarais__](./vivarais/) (1878)
 * [Voyage autour de Valgorge](./valgorge/) (1879)
 * [Voyage autour de Privas](./privas/) (1882)
 * [Voyage dans le midi de l'Ardèche](./midi-ardeche/) (1884)
 * [Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche](./riviere-ardeche/) (1885)
-* [Voyage au pays Helvien](./helvien/) (1885)
+* [__Voyage au pays Helvien__](./helvien/) (1885)
 * [Voyage au Bourg-Saint-Andéol](./bourg-st-andeol/) (1886)
 * Voyage autour de Crussol (1888)
 * [Voyage humoristique, politique et philosophique au mont Pilat](./pilat/) (1890)
