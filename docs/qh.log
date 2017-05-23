@@ -1,6 +1,6 @@
 QuickHtml ..
 ---
-date: 17/05/2017 13:30:50
+date: 23/05/2017 12:37:11
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -51,6 +51,22 @@ write: /pilat/index.md
 mkdir: /privas
 write: /privas/index.md
 mkdir: /riviere-ardeche
+write: /riviere-ardeche/01.md
+write: /riviere-ardeche/02.md
+write: /riviere-ardeche/03.md
+write: /riviere-ardeche/04.md
+write: /riviere-ardeche/05.md
+write: /riviere-ardeche/06.md
+write: /riviere-ardeche/07.md
+write: /riviere-ardeche/08.md
+write: /riviere-ardeche/09.md
+write: /riviere-ardeche/10.md
+write: /riviere-ardeche/11.md
+write: /riviere-ardeche/12.md
+write: /riviere-ardeche/13.md
+write: /riviere-ardeche/14.md
+write: /riviere-ardeche/15.md
+write: /riviere-ardeche/16.md
 write: /riviere-ardeche/index.md
 mkdir: /valgorge
 write: /valgorge/index.md
@@ -83,4 +99,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 1,14 seconds 
+Site built in 1,19 seconds 
