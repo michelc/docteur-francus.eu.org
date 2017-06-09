@@ -1,11 +1,12 @@
 QuickHtml ..
 ---
-date: 24/05/2017 12:29:26
+date: 09/06/2017 12:26:33
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
+mkdir: /
  copy: /CNAME
 write: /index.md
 touch: /qh.log
@@ -98,4 +99,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 1,17 seconds 
+Site built in 1,18 seconds 
