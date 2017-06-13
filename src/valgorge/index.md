@@ -1,6 +1,6 @@
 ---
-title: "Voyage autours de Valgorge"
-description: "La table des matières du livre \"Voyage autours de Valgorge\" du Docteur Francus (Albin Mazon) publié en 1879 par l'Imprimerie Typographique Roure de Privas"
+title: "Voyage autour de Valgorge"
+description: "La table des matières du livre \"Voyage autour de Valgorge\" du Docteur Francus (Albin Mazon) publié en 1879 par l'Imprimerie Typographique Roure de Privas"
 ---
 
 #### 1879
