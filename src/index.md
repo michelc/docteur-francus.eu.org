@@ -55,7 +55,7 @@ volume de la série des "__Voyages du Docteur Francus__".
 * [Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche](./riviere-ardeche/) (1885)
 * [__Voyage au pays Helvien__](./helvien/) (1885)
 * [Voyage au Bourg-Saint-Andéol](./bourg-st-andeol/) (1886)
-* Voyage autour de Crussol (1888)
+* [Voyage autour de Crussol](./crussol/) (1888)
 * [Voyage humoristique, politique et philosophique au mont Pilat](./pilat/) (1890)
 * [Voyage fantaisiste et sérieux à travers l'Ardèche et la Haute-Loire](./haute-loire/) (1894)
 * [Voyage autour d'Annonay](./annonay/) (1901)
