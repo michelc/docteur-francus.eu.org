@@ -167,6 +167,12 @@ blockquote p {
   text-indent: 0;
 }
 
+.container > pre {
+  font-size: .85rem;
+  letter-spacing: -1px;
+  margin-left: 1.2rem;
+}
+
 a[href="#notes"] {
   font-weight: bold;
   margin: 0 .2rem;
