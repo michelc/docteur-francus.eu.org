@@ -1,6 +1,6 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 10/10/2017 12:20:47
+date: 30/03/2018 12:16:47
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -51,6 +51,32 @@ write: /midi-ardeche/index.md
 mkdir: /pilat
 write: /pilat/index.md
 mkdir: /privas
+write: /privas/01.md
+write: /privas/02.md
+write: /privas/03.md
+write: /privas/04.md
+write: /privas/05.md
+write: /privas/06.md
+write: /privas/07.md
+write: /privas/08.md
+write: /privas/09.md
+write: /privas/10.md
+write: /privas/11.md
+write: /privas/12.md
+write: /privas/13.md
+write: /privas/14.md
+write: /privas/15.md
+write: /privas/16.md
+write: /privas/17.md
+write: /privas/18.md
+write: /privas/19.md
+write: /privas/20.md
+write: /privas/21.md
+write: /privas/22.md
+write: /privas/23.md
+write: /privas/24.md
+write: /privas/25.md
+write: /privas/26.md
 write: /privas/index.md
 mkdir: /riviere-ardeche
 write: /riviere-ardeche/01.md
@@ -101,4 +127,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 2,57 seconds 
+Site built in 3,41 seconds 
