@@ -1,0 +1,386 @@
+/*
+ * voyages-docteur-francus
+ */
+
+
+/* Layout
+   (http://www.adamkaplan.me/grid/)
+   ========================================================================== */
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font: 14px/1.4 Century, "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #fff;
+  color: #444;
+}
+
+.container {
+  background-color: #fff;
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 1rem;
+  text-align: justify;
+  width: 100%;
+}
+
+
+/* Links
+   ========================================================================== */
+
+a,
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+
+/* Titles
+   ========================================================================== */
+
+header {
+  font-family: "Century Gothic", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-size: 1.3rem;
+  margin: 1rem 0 .25rem 0;
+  text-transform: uppercase;
+  transform: scale(1.1, 1);
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 1rem -4rem;
+  text-transform: none;
+  transform: scale(.8, 1);
+}
+
+h2 a {
+  color: green !important;
+}
+
+h5 { margin-top: 0; }
+#mazon h5 { display: none; }
+
+header hr {
+  background-color: #111;
+  height: 1px;
+  margin: 3rem 42%;
+  overflow-y: hidden;
+}
+
+
+/* Lists
+   ========================================================================== */
+
+ul,
+ol {
+  margin: 0 0 0 1.3rem;
+  padding: 0;
+  text-align: left;
+}
+
+#toc ol {
+  list-style: upper-roman;
+  margin-left: 3rem;
+}
+
+.zero ol :first-child {
+  list-style: none;
+}
+
+#boutieres ol :last-child {
+  list-style: none;
+}
+
+
+/* Texts
+   ========================================================================== */
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+p {
+  text-indent: 1.2rem;
+}
+
+.tltr p {
+  color: #000;
+  font-size: smaller;
+  margin-left: 1.2rem;
+  text-indent: -1.2rem;
+}
+
+.scaps p {
+  font-variant: small-caps;
+}
+
+.tab p {
+  text-indent: 3.5rem;
+}
+
+.end p {
+  margin-right: 1.2rem;
+  text-align: right;
+  text-indent: .5rem;
+}
+
+blockquote {
+  color: #222;
+  font-size: .85rem;
+  letter-spacing: -1px;
+  margin-left: 1.2rem;
+  margin-right: 0;
+}
+.centre blockquote {
+  margin-left: 0;
+  text-align: center;
+}
+
+blockquote p {
+  text-indent: 0;
+}
+
+.container > pre {
+  font-size: .85rem;
+  letter-spacing: -1px;
+  margin-left: 1.2rem;
+}
+
+a[href="#notes"] {
+  font-weight: bold;
+  margin: 0 .2rem;
+}
+
+#notes {
+  border-top: 1px solid #111;
+  margin-top: 1.2rem;
+  padding-top: 1.2rem;
+}
+
+#notes li {
+  font-size: .75rem;
+  text-align: justify;
+}
+
+#notes p,
+#notes pre {
+  margin: 0;
+  text-indent: 0;
+}
+#notes pre {
+  font-size: .75rem;
+  line-height: .75rem;
+  margin-left: -2.5rem;
+  overflow: hidden;
+  transform: scale(.8, 1);
+}
+
+blockquote strong,
+#notes strong {
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+hr {
+  border: 0;
+  font-size: .75rem;
+  height: 1.3rem;
+  letter-spacing: .45rem;
+  line-height: .65rem;
+  margin: 0;
+  page-break-inside: avoid;
+  text-align: center;
+}
+
+hr:before { content: '*'; display: block; }
+hr:after { content: '* *'; display: block; }
+
+
+/* Nomenclature des terrains
+   (Voyage aux pays volcaniques du Vivarais - chapitre VI)
+   ========================================================================== */
+
+.terrains {
+  line-height: 1;
+  margin: .25rem 0;
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+.terrains caption {
+  font-style: italic;
+}
+
+.terrains div {
+  border-left: 2px dashed #777;
+  padding-left: 1rem;
+}
+
+.terrains td {
+  padding: .5rem;
+}
+
+.terrains td:first-child {
+  text-align: center;
+  width: 30%;
+}
+
+
+/* Images
+   ========================================================================== */
+
+img {
+  max-width: 100%;
+  max-width: 300px;
+}
+div.img p {
+  text-align: center;
+  text-indent: 0;
+}
+
+
+/* Next chapter button
+   ========================================================================== */
+
+#next p {
+  margin: 3rem 0 2rem 0;
+  text-align: center;
+  text-indent: 0;
+}
+
+#next p a {
+  background-color: green;
+  border-radius: 20px;
+  color: white;
+  padding: .2rem 2rem .3rem 2rem;
+}
+
+#next p a:hover,
+#next p a:focus {
+  text-decoration: none;
+}
+
+
+/* Footer
+   ========================================================================== */
+
+footer {
+  margin: 3rem 0 0 0;
+  text-align: center;
+}
+
+
+/* Smartphone landscape (448px)
+   ========================================================================== */
+
+@media (min-width: 28rem) {
+  html {
+    font-size: 16px;
+  }
+  .container {
+    max-width: 32rem;
+    padding: 1rem 2rem;
+  }
+  blockquote {
+    letter-spacing: 0;
+    margin-left: 2rem;
+  }
+}
+
+
+/* Tablet (768px)
+   ========================================================================== */
+
+@media (min-width: 48rem) {
+  html {
+    font-size: 20px;
+  }
+  .container {
+    max-width: 48rem;
+    padding: 1rem 7.2rem;
+  }
+  #mazon .container {
+    padding: 1rem 4.2rem;
+  }
+}
+
+
+/* Desktop (1024px)
+   ========================================================================== */
+
+@media (min-width: 64rem) {
+  body {
+    background-color: #f8f8f8;
+  }
+  .container {
+    max-width: 48rem;
+    padding: 1rem 12rem;
+  }
+  #mazon .container {
+    padding: 1rem 6rem;
+  }
+}
+
+
+/* Print
+   ========================================================================== */
+
+@page {
+  margin: 3.33cm 0; /* en cm pour IE */
+}
+
+@media print {
+  html {
+    font-size: 130%;
+    line-height: 1.35;
+  }
+  body {
+    background-color: #fff;
+  }
+  .container {
+    padding: 2rem 5rem;
+    max-width: 34rem;
+    width: 100%;
+    orphans: 2;
+    widows: 2;
+  }
+  #mazon .container {
+    padding: 2rem;
+  }
+  h2 {
+    margin: 1rem 0;
+  }
+  p {
+    margin: .33rem 0;
+  }
+  #next {
+    display: none;
+  }
+}

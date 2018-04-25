@@ -1,0 +1,131 @@
+QuickHtml ..
+---
+date: 25/04/2018 12:55:01
+src: E:\MVC\docteur-francus.eu.org\src
+docs: E:\MVC\docteur-francus.eu.org\docs
+---
+rmdir: /*.*
+  dir: /*.*
+mkdir: /
+ copy: /CNAME
+ copy: /googlede279986b14be3b4.html
+write: /index.md
+touch: /qh.log
+write: /robots.md
+mkdir: /annonay
+write: /annonay/index.md
+mkdir: /bourg-st-andeol
+write: /bourg-st-andeol/index.md
+mkdir: /boutieres
+write: /boutieres/index.md
+mkdir: /crussol
+write: /crussol/index.md
+mkdir: /css
+ copy: /css/normalize.css
+ copy: /css/style.css
+mkdir: /haute-loire
+write: /haute-loire/index.md
+mkdir: /helvien
+write: /helvien/01.md
+write: /helvien/02.md
+write: /helvien/03.md
+write: /helvien/04.md
+write: /helvien/05.md
+write: /helvien/06.md
+write: /helvien/07.md
+write: /helvien/08.md
+write: /helvien/09.md
+write: /helvien/10.md
+write: /helvien/11.md
+write: /helvien/12.md
+write: /helvien/13.md
+write: /helvien/14.md
+write: /helvien/15.md
+write: /helvien/index.md
+mkdir: /images
+ copy: /images/docteur-francus.jpg
+ copy: /images/vivarais-225.png
+ copy: /images/vivarais-29.png
+ copy: /images/vivarais-34.png
+mkdir: /midi-ardeche
+write: /midi-ardeche/index.md
+mkdir: /pilat
+write: /pilat/index.md
+mkdir: /privas
+write: /privas/01.md
+write: /privas/02.md
+write: /privas/03.md
+write: /privas/04.md
+write: /privas/05.md
+write: /privas/06.md
+write: /privas/07.md
+write: /privas/08.md
+write: /privas/09.md
+write: /privas/10.md
+write: /privas/11.md
+write: /privas/12.md
+write: /privas/13.md
+write: /privas/14.md
+write: /privas/15.md
+write: /privas/16.md
+write: /privas/17.md
+write: /privas/18.md
+write: /privas/19.md
+write: /privas/20.md
+write: /privas/21.md
+write: /privas/22.md
+write: /privas/23.md
+write: /privas/24.md
+write: /privas/25.md
+write: /privas/26.md
+write: /privas/index.md
+mkdir: /riviere-ardeche
+write: /riviere-ardeche/01.md
+write: /riviere-ardeche/02.md
+write: /riviere-ardeche/03.md
+write: /riviere-ardeche/04.md
+write: /riviere-ardeche/05.md
+write: /riviere-ardeche/06.md
+write: /riviere-ardeche/07.md
+write: /riviere-ardeche/08.md
+write: /riviere-ardeche/09.md
+write: /riviere-ardeche/10.md
+write: /riviere-ardeche/11.md
+write: /riviere-ardeche/12.md
+write: /riviere-ardeche/13.md
+write: /riviere-ardeche/14.md
+write: /riviere-ardeche/15.md
+write: /riviere-ardeche/16.md
+write: /riviere-ardeche/index.md
+mkdir: /valgorge
+write: /valgorge/index.md
+mkdir: /vivarais
+write: /vivarais/00.md
+write: /vivarais/01.md
+write: /vivarais/02.md
+write: /vivarais/03.md
+write: /vivarais/04.md
+write: /vivarais/05.md
+write: /vivarais/06.md
+write: /vivarais/07.md
+write: /vivarais/08.md
+write: /vivarais/09.md
+write: /vivarais/10.md
+write: /vivarais/11.md
+write: /vivarais/12.md
+write: /vivarais/13.md
+write: /vivarais/14.md
+write: /vivarais/15.md
+write: /vivarais/16.md
+write: /vivarais/17.md
+write: /vivarais/18.md
+write: /vivarais/19.md
+write: /vivarais/20.md
+write: /vivarais/21.md
+write: /vivarais/22.md
+write: /vivarais/23.md
+write: /vivarais/24.md
+write: /vivarais/index.md
+write: /sitemap.md
+---
+Site built in 2,14 seconds 
