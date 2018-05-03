@@ -50,7 +50,7 @@ volume de la série des "__Voyages du Docteur Francus__".
 
 * [__Voyage aux pays volcaniques du Vivarais__](./vivarais/) (1878)
 * [Voyage autour de Valgorge](./valgorge/) (1879)
-* [Voyage autour de Privas](./privas/) (1882)
+* [__Voyage autour de Privas__](./privas/) (1882)
 * [Voyage dans le midi de l'Ardèche](./midi-ardeche/) (1884)
 * [__Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche__](./riviere-ardeche/) (1885)
 * [__Voyage au pays Helvien__](./helvien/) (1885)
