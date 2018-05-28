@@ -68,7 +68,7 @@ montagne.
 
 L'intérieur d'une diligence. -- La paysanne qui va en service. -- Le minotaure
 des grandes villes. -- La blonde et la brune. -- Un compagnon de voyage. -- La
-vallée de l'Erieux. -- Saint-Julien-Boutières. -- Les réfractaires sous le
+vallée de l'Erieux. -- Saint-Julien-Boutière. -- Les réfractaires sous le
 premier Empire. -- M. Montaigne. -- Arrivée à Saint-Agrève.
 
 </div>
@@ -97,7 +97,8 @@ guérit. -- Les miracles. -- Programme d'excursion. -- L'abbé Chambron.
 Un cocher à proverbes. -- Le pasteur Majal Deshubas. -- Saint Théofrède des
 Vastres. -- L'église. -- Un tableau venant de Bonnefoy. -- L'inventeur de la
 machine à coudre. --  Une tentative d'assassinat contre le curé en 1715. -- La
-Révolution aux Vastres. -- Catholiques, protestants et momiens. -- Les Soeurs.
+Révolution aux Vastres. -- Les curés des Vastres. -- Catholiques, protestants et
+momiens. -- Les Soeurs.
 
 </div>
 
@@ -110,7 +111,7 @@ Révolution aux Vastres. -- Catholiques, protestants et momiens. -- Les Soeurs.
 Le Lignon. -- Le Pont de Mars. -- La famille de Chalendar. -- Dîner à l'hôtel
 Issartel. -- L'étymologie de Fay. -- Le château du Mezenc. -- L'origine des de
 Fay. -- Une observation de du Solier sur les généalogies. -- Les principaux
-personnages du nom de Fay. -- Saint Jean-François Régis à Fay. -- Jules Valès.
+personnages du nom de Fay. -- Saint Jean-François-Régis à Fay. -- Jules Vallès.
 
 </div>
 
@@ -228,7 +229,7 @@ sabbat.
 
 Le _pont du Vivarais_. -- Un clocher qui remue. -- Le vendredi saint à Burzet
 dans l'ancien temps. -- Un curé original. -- Le démariage. -- La chapelle du
-Villard. -- Saint Bénezet et le pont d'Avignon. -- Le château de Fau. -- La
+Villard. -- Saint Bénezet et le pont d'Avignon. -- Le château du Fau. -- La
 fontaine du Sauvage. -- Les anciens charlatans. -- La cascade du Ray-Pic. -- Un
 _jeune homme_ de 106 ans. -- Les centenaires.
 
@@ -258,7 +259,7 @@ Les _padgels_. -- Leur physique et leur costume. -- Leur caractère. -- Le comba
 des Merle et des Ollier. -- Les foires. -- Le culte de la bouteille dans le bas
 Vivarais et en montagne. -- Le vin et le jeu. -- Une rixe à la foire. -- Les
 _paches_. -- Chanéac le chouan. -- Montchauffé chez M. Bernard. -- La _bouïrado_
-et la reboule. -- Une tempête sous un crane.
+et la reboule. -- Une tempête sous un crâne.
 
 </div>
 
@@ -269,7 +270,7 @@ et la reboule. -- Une tempête sous un crane.
 <div class="tltr">
 
 Le portrait de l'oncle Jérôme. -- Un moine ambulant. -- Deux jolies
-dentellières. -- Où Jean et pierrot apparaissent en personne. -- La promenade au
+dentellières. -- Où Jean et Pierrot apparaissent en personne. -- La promenade au
 Lac d'Issarlès. -- Les dialogues entre amoureux. -- La légende des lacs. -- Sept
 personnes à cheval dans un volcan. -- Une fleur. -- Superstition. -- Le départ
 pour Bonnefoy. -- Les adieux.
@@ -383,7 +384,7 @@ L'interdiction des processions au Puy.
 
 <div class="tltr">
 
-La montée de Saint-Michel et l'_Echelle du Roi_, de Thueyts. -- Le clocher et la
+La montée de Saint-Michel et l'_Echelle du Roi_, de Thueytz. -- Le clocher et la
 chapelle. -- L'abbaye de Saint-Séguret. -- Le chanoine Truanus. -- Les terreurs
 de l'an 1000. -- L'inscription _Sator Arepo_. -- Le registre des visiteurs. --
 Impressions des touristes. -- La chapelle Saint-Clair. -- Le roman de M.
@@ -428,7 +429,7 @@ mauvais ?
 <div class="tltr">
 
 Les Monts-Dores. -- La théorie de M. Lecoq sur la formation des monts Dômes et
-les Monts-Dores. -- Le village des bains. -- La Dordogne. -- Les sources
+des Monts-Dores. -- Le village des bains. -- La Dordogne. -- Les sources
 thermales. -- L'eau qui pique. -- La station en 1788. -- Les premières salles
 d'inhalation établies par Michel Bertrand. -- La prière de Branbran aux Naïades.
 -- L'ascension du Puy de Sancy. -- Le Sancy et le Mezenc. -- Apreté au gain des
@@ -454,7 +455,7 @@ que les autres ? -- Le positivisme à outrance de la médecine actuelle. -- Les
 "médecins philosophes" d'autrefois. -- Les aphorismes de Branbran. -- La
 médecine du bon air. -- Aérothérapie, hydrothérapie, gymnothérapie et
 théothérapie. -- Le secret du curé Kneipp. -- Les miracles. -- Les conseils de
-l'école de Salerne, de Boerrhaave et de M. Chevreul. -- Les simples et les
+l'école de Salerne, de Bo|errhaave et de M. Chevreul. -- Les simples et les
 remèdes chimiques. -- Analogies entre la médecine et la politique. -- Les têtes
 de Turc. -- _Corrige teipsum_. -- Les eaux de la Bourboule.
 
@@ -482,7 +483,7 @@ Luc.
 <div class="tltr">
 
 Vestiges romains. -- Les trois ouvertures de la source thermale. -- Ses
-propriétés curatives. -- Las lacunes de la station. -- Nécessité d'une nouvelle
+propriétés curatives. -- Les lacunes de la station. -- Nécessité d'une nouvelle
 analyse de ses eaux. -- L'action électrique des eaux thermales. -- Progrès
 réalisés à Saint-Laurent. -- Bon marché des hôtels. -- Les loups. --
 Notre-Dame-des-Neiges. -- L'inscription d'un cadran solaire. -- Les
@@ -504,7 +505,7 @@ La découverte d'un monde nouveau. -- Les grands et les petits miracles. --
 L'oeuvre réparatrice du clergé de l'Ardèche après la Révolution. -- Madame
 Rivier. -- Les Soeurs de Saint-Joseph. -- Les services rendus par les
 communautés religieuses à l'instruction populaire. -- La Providence d'Annonay.
--- Une église bâtie par des femmes. -- Fondation de collèges. -- Las Basiliens.
+-- Une église bâtie par des femmes. -- Fondation de collèges. -- Les Basiliens.
 -- L'ermite Chiron, fondateur de la congrégation de Notre-Dame de l'Assomption
 et créateur des asiles d'aliénés de Privas et de Clermont. -- L'abbé Terme. --
 Excursion au Plagnal. -- La congrégation des Soeurs de Saint-Régis, fondée à Aps
@@ -567,7 +568,7 @@ Poinsac. -- Mme Lascombes. -- Arrivée au Puy.
 
 Livraison des poulains. -- Bons diables et bons enfants. -- Les Velayens dans
 l'armée. -- Les femmes du Puy. -- La dentelle. -- Les Béates. -- Les vignards.
--- La Société d'Agriculture. -- M. Chassaing. -- La Société agricole. -- Le
+-- La Société d'agriculture. -- M. Chassaing. -- La Société agricole. -- Le
 Musée. -- Les fresques de Léon Giron. -- Le portrait de la comtesse d'Agrain. --
 Crozatier. -- Gaston Eyssette. -- Charles Dupuy. -- Les francs-maçons.
 
