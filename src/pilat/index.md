@@ -244,7 +244,7 @@ constitutions politiques et les moeurs. -- _God save the Queen_ !
 
 #### XVII
 
-### La philosophe de la religion
+### La philosophie de la religion
 
 <div class="tltr">
 
@@ -265,9 +265,9 @@ de miss Diana.
 <div class="tltr">
 
 Le diner d'adieu. -- Une histoire de Riffardou. -- Pourquoi les écrevisses ont
-les os en dehors et les hommes en dedans. -- _In villo veritas_. -- Le siècle
-des blagueurs. -- Péroraison ronflante d'un discours électoral. -- Où Chabourdin
-se déboutonne. -- Comment il avait trouvé le moyen de se moquer de tout le monde
-et de lui-même. -- Un départ avant l'aube. -- La fin du roman.
+les os en dehors et les hommes en dedans. -- _In vino veritas_. -- Le siècle des
+blagueurs. -- Péroraison ronflante d'un discours électoral. -- Où Chabourdin se
+déboutonne. -- Comment il avait trouvé le moyen de se moquer de tout le monde et
+de lui-même. -- Un départ avant l'aube. -- La fin du roman.
 
 </div>
