@@ -1,6 +1,6 @@
 QuickHtml 
 ---
-date: 09/10/2018 12:39:12
+date: 11/10/2018 12:28:40
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -19,6 +19,14 @@ write: /bourg-st-andeol/index.md
 mkdir: /boutieres
 write: /boutieres/index.md
 mkdir: /crussol
+write: /crussol/01.md
+write: /crussol/02.md
+write: /crussol/03.md
+write: /crussol/04.md
+write: /crussol/05.md
+write: /crussol/06.md
+write: /crussol/07.md
+write: /crussol/08.md
 write: /crussol/index.md
 mkdir: /css
  copy: /css/normalize.css
@@ -146,4 +154,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 3,02 seconds 
+Site built in 2,90 seconds 
