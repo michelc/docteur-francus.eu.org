@@ -1,6 +1,6 @@
 QuickHtml 
 ---
-date: 23/10/2018 12:18:40
+date: 24/10/2018 12:47:32
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -12,6 +12,7 @@ mkdir: /
 write: /index.md
 touch: /qh.log
 write: /robots.md
+ copy: /yandex_90e4b2393db90b34.html
 mkdir: /annonay
 write: /annonay/index.md
 mkdir: /bourg-st-andeol
@@ -154,4 +155,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 3,18 seconds 
+Site built in 3,57 seconds 
