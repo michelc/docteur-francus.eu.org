@@ -1,13 +1,15 @@
-QuickHtml 
+QuickHtml ..
 ---
-date: 05/11/2018 12:17:15
+date: 08/11/2018 15:49:01
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
 mkdir: /
+ copy: /apple-touch-icon-180x180.png
  copy: /CNAME
+ copy: /favicon.ico
  copy: /googlede279986b14be3b4.html
 write: /index.md
 touch: /qh.log
@@ -155,4 +157,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 2,95 seconds 
+Site built in 3,79 seconds 

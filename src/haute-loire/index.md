@@ -127,7 +127,7 @@ grand espalier méridional. -- La croix du Mezenc. -- Une république envolée. 
 Le déjeuner à la ferme. -- Le prix des terres et les salaires. -- Le foin des
 montagnes. -- Soulavie au lac de Saint-Front. -- Pépinières d'hommes. -- Progrès
 matériel et décadence morale. -- Les touristes au Mezenc. -- Projet
-d'observatoire. -- L’étymologie de Mezenc. -- Les Estables. -- Le général
+d'observatoire. -- L'étymologie de Mezenc. -- Les Estables. -- Le général
 Chambarlhac. -- Chaudeyrolles. -- Formation des orages. -- Le clocheron de Fay
 et le tonnerre. -- Le lac de Saint-Front.
 
@@ -489,7 +489,7 @@ réalisés à Saint-Laurent. -- Bon marché des hôtels. -- Les loups. --
 Notre-Dame-des-Neiges. -- L'inscription d'un cadran solaire. -- Les
 préoccupations de Bodin et celles de M. Montaigne. -- La voie Regordane. -- La
 division du Randonnat (1255). -- Saint-Etienne-de-Lugdarès. -- Une _réparation
-des feux_ en 1399. -- Indulgences accordées par l’évêque du Puy pour la
+des feux_ en 1399. -- Indulgences accordées par l'évêque du Puy pour la
 construction d'un pont à Saint-Etienne (1513). -- L'église de Saint-Etienne. --
 Le cardinal Bourret et son administration dans le diocèse de Rodez.
 
