@@ -142,7 +142,7 @@ p {
 }
 
 .tab p {
-  text-indent: 3.5rem;
+  text-indent: 3.5rem !important;
 }
 
 .end p {
@@ -162,9 +162,15 @@ blockquote {
   margin-left: 0;
   text-align: center;
 }
+blockquote.marge0 {
+  margin-left: 0;
+}
 
 blockquote p {
   text-indent: 0;
+}
+blockquote.marge0 p {
+  text-indent: 1.2rem;
 }
 
 .container > pre {
