@@ -140,6 +140,9 @@ p {
 .scaps {
   font-variant: small-caps;
 }
+.scaps span {
+  font-variant: normal;
+}
 
 .tab p {
   text-indent: 3.5rem !important;
