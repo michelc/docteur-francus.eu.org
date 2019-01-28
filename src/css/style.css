@@ -161,7 +161,7 @@ blockquote {
   margin-left: 1.2rem;
   margin-right: 0;
 }
-.centre blockquote {
+.centre blockquote, .centre p {
   margin-left: 0;
   text-align: center;
 }
