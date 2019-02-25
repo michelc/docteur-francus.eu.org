@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docteur-francus.eu.org/</loc>
-    <lastmod>2018-10-18</lastmod>
+    <lastmod>2019-02-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,7 +20,73 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/boutieres/</loc>
-    <lastmod>2017-05-15</lastmod>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/01.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/02.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/03.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/04.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/05.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/06.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/07.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/08.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/09.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/10.html</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://docteur-francus.eu.org/boutieres/11.html</loc>
+    <lastmod>2019-02-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>

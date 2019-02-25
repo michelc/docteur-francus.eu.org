@@ -1,6 +1,6 @@
 QuickHtml 
 ---
-date: 18/02/2019 12:46:11
+date: 25/02/2019 12:24:49
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -20,6 +20,17 @@ write: /annonay/index.md
 mkdir: /bourg-st-andeol
 write: /bourg-st-andeol/index.md
 mkdir: /boutieres
+write: /boutieres/01.md
+write: /boutieres/02.md
+write: /boutieres/03.md
+write: /boutieres/04.md
+write: /boutieres/05.md
+write: /boutieres/06.md
+write: /boutieres/07.md
+write: /boutieres/08.md
+write: /boutieres/09.md
+write: /boutieres/10.md
+write: /boutieres/11.md
 write: /boutieres/index.md
 mkdir: /crussol
 write: /crussol/01.md
@@ -157,4 +168,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 3,80 seconds 
+Site built in 3,55 seconds 
