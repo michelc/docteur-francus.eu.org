@@ -75,5 +75,25 @@ industriel et commercial" de l'Ardèche qui n'a jamais vu le jour.
 
 Aujourd'hui numérisés et conservés aux Archives départementales, les registres
 de son Encyclopédie de l'Ardèche constituent une partie substantielle du [Fonds
-Albin Mazon](http://archives.ardeche.fr/Accueil/Consulter_les_archives_numerisees/mazon/Encyclopedie)
+Albin Mazon](https://archives.ardeche.fr/n/fonds-mazon/n:103)
 consultable en ligne.
+
+<section>
+
+---
+
+Les Voyages du Docteur Francus ont été publiés du vivant d'Albin Mazon de 1878 à
+1905. Ils ont été réédités à partie des années 1965 jusqu'en 1987 par
+l'Imprimerie Lienhart et Cie à Aubenas, les Editions Simone Sudre au Teil et les
+Editions de Candide à Lavilledieu. A partir des années 1990, certains titres ont
+à nouveau été réédités par les Editions Dolmazon au Cheylard et La Bouquinerie
+à Valence. Depuis fin 2016, mon objectif avec ce site est de poursuivre ce
+travail de diffusion de cette collection unique de voyages ardéchois.
+
+<div class="end">
+
+<span title="michelc at gmail">Michel</span>
+
+</div>
+
+</section>
