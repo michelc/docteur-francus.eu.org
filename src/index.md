@@ -46,7 +46,9 @@ Francus".
 Ce nom évoque à la fois le souvenir d'une vocation médicale, le goût de
 l'histoire ancienne, l'amour du pays, le franc-parler, le souci d'observer les
 maux et d'y chercher remède... Tous ces éléments sont présents dans chaque
-volume de la série des "__Voyages du Docteur Francus__".
+volume de la série des "__Voyages du Docteur Francus__". Cette oeuvre de longue
+haleine, entreprise à partir de 1878, avait pour ambition de faire découvrir
+aux Ardéchois, région par région, la vie et l'histoire de leur province.
 
 * [__Voyage aux pays volcaniques du Vivarais__](./vivarais/) (1878)
 * [Voyage autour de Valgorge](./valgorge/) (1879)
@@ -73,22 +75,33 @@ cette documentation qui va de 1184 au XX^e^ siècle, devait servir à un
 dictionnaire "historique, géographique, biographique, bibliographique,
 industriel et commercial" de l'Ardèche qui n'a jamais vu le jour.
 
-Aujourd'hui numérisés et conservés aux Archives départementales, les registres
-de son Encyclopédie de l'Ardèche constituent une partie substantielle du [Fonds
-Albin Mazon](https://archives.ardeche.fr/n/fonds-mazon/n:103)
-consultable en ligne.
+Albin Mazon a ainsi laissé plus de 180 ouvrages et brochures. Ses notes et
+documents, dont 150 volumes et dossiers, sont désormais numérisés et conservés
+aux Archives départementales. Les registres de son Encyclopédie de l'Ardèche
+constituent aujourd'hui une partie substantielle du [Fonds Albin
+Mazon](https://archives.ardeche.fr/n/fonds-mazon/n:103) consultable en ligne.
 
 <section>
 
 ---
 
 Les Voyages du Docteur Francus ont été publiés du vivant d'Albin Mazon de 1878 à
-1905. Ils ont été réédités à partie des années 1965 jusqu'en 1987 par
+1905. Ils ont été réédités à partir des années 1965 jusqu'en 1987 par
 l'Imprimerie Lienhart et Cie à Aubenas, les Editions Simone Sudre au Teil et les
 Editions de Candide à Lavilledieu. A partir des années 1990, certains titres ont
 à nouveau été réédités par les Editions Dolmazon au Cheylard et La Bouquinerie
-à Valence. Depuis fin 2016, mon objectif avec ce site est de poursuivre ce
-travail de diffusion de cette collection unique de voyages ardéchois.
+à Valence.
+
+Depuis fin 2016, mon objectif avec ce site est de continuer le travail de
+diffusion de ces récits de voyage. J'espère que cette nouvelle édition intégrale
+permettra à de nouveaux lecteurs de découvrir ces témoignages du patrimoine
+ardéchois.
+
+A travers ce média moderne, les lecteurs et les historiens locaux pourront plus
+facilement étudier et accéder à cette somme de connaissance du terroir ardéchois
+qui fut l'oeuvre de la vie d'Albin Mazon. Tous les amis de l'Ardèche et du
+Vivarais pourront ainsi dans quelque temps consulter à volonté la collection
+complète des Voyages du Docteur Francus.
 
 <div class="end">
 
