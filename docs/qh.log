@@ -1,6 +1,6 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 15/04/2019 12:27:39
+date: 16/04/2019 10:42:09
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -12,6 +12,7 @@ mkdir: /
  copy: /favicon.ico
  copy: /googlede279986b14be3b4.html
 write: /index.md
+ copy: /index.md.bak
 touch: /qh.log
 write: /robots.md
  copy: /yandex_90e4b2393db90b34.html
@@ -45,6 +46,8 @@ write: /crussol/index.md
 mkdir: /css
  copy: /css/normalize.css
  copy: /css/style.css
+mkdir: /haut-vivarais
+write: /haut-vivarais/index.md
 mkdir: /haute-loire
 write: /haute-loire/index.md
 mkdir: /helvien
@@ -168,4 +171,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 5,40 seconds 
+Site built in 4,79 seconds 

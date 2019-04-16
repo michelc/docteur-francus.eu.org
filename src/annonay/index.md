@@ -1,6 +1,6 @@
 ---
 title: "Voyage autour d'Annonay"
-description: "La table des matières du livre \"Voyage autour d'Annonay\" du Docteur Francus (Albin Mazon) publié en 1901"
+description: "La table des matières du livre \"Voyage autour d'Annonay\" du Docteur Francus (Albin Mazon) publié en 1901 par Hervé Frères, Annonay"
 ---
 
 #### 1901
