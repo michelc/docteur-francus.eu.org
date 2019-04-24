@@ -46,9 +46,10 @@ Francus".
 Ce nom évoque à la fois le souvenir d'une vocation médicale, le goût de
 l'histoire ancienne, l'amour du pays, le franc-parler, le souci d'observer les
 maux et d'y chercher remède... Tous ces éléments sont présents dans chaque
-volume de la série des "__Voyages du Docteur Francus__". Cette oeuvre de longue
-haleine, entreprise à partir de 1878, avait pour ambition de faire découvrir
-aux Ardéchois, région par région, la vie et l'histoire de leur province.
+volume de la série des "<span class='strong'>Voyages du Docteur Francus</span>".
+Cette oeuvre de longue haleine, entreprise à partir de 1878, avait pour ambition
+de faire découvrir aux Ardéchois, région par région, la vie et l'histoire de
+leur province.
 
 * [__Voyage aux pays volcaniques du Vivarais__](./vivarais/) (1878)
 * [Voyage autour de Valgorge](./valgorge/) (1879)

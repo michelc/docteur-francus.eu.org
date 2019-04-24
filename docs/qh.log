@@ -1,6 +1,6 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 23/04/2019 12:29:50
+date: 24/04/2019 12:29:26
 src: E:\MVC\docteur-francus.eu.org\src
 docs: E:\MVC\docteur-francus.eu.org\docs
 ---
@@ -12,7 +12,6 @@ mkdir: /
  copy: /favicon.ico
  copy: /googlede279986b14be3b4.html
 write: /index.md
- copy: /index.md.bak
 touch: /qh.log
 write: /robots.md
  copy: /yandex_90e4b2393db90b34.html
@@ -171,4 +170,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 4,09 seconds 
+Site built in 4,07 seconds 

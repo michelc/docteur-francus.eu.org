@@ -137,13 +137,6 @@ p {
   text-indent: -1.2rem;
 }
 
-.scaps {
-  font-variant: small-caps;
-}
-.scaps span {
-  font-variant: normal;
-}
-
 .tab p {
   text-indent: 3.5rem !important;
 }
@@ -211,10 +204,16 @@ a[href="#notes"] {
   transform: scale(.8, 1);
 }
 
-blockquote strong,
-#notes strong {
+strong {
   font-weight: normal;
   font-variant: small-caps;
+}
+a strong {
+  font-weight: bold;
+  font-variant: normal;
+}
+span.strong {
+  font-weight: bold;
 }
 
 hr {

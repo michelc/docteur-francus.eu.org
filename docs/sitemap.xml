@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docteur-francus.eu.org/</loc>
-    <lastmod>2019-04-16</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -38,13 +38,13 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/boutieres/03.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/boutieres/04.html</loc>
-    <lastmod>2019-03-25</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/boutieres/06.html</loc>
-    <lastmod>2019-04-08</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/boutieres/08.html</loc>
-    <lastmod>2019-04-23</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/helvien/08.html</loc>
-    <lastmod>2017-05-15</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/helvien/13.html</loc>
-    <lastmod>2017-05-15</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/privas/14.html</loc>
-    <lastmod>2018-06-12</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -494,7 +494,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/privas/20.html</loc>
-    <lastmod>2018-08-21</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -794,7 +794,7 @@
   </url>
   <url>
     <loc>https://docteur-francus.eu.org/vivarais/24.html</loc>
-    <lastmod>2017-05-15</lastmod>
+    <lastmod>2019-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
