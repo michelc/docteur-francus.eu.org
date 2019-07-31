@@ -82,8 +82,6 @@ aux Archives départementales. Les registres de son Encyclopédie de l'Ardèche
 constituent aujourd'hui une partie substantielle du [Fonds Albin
 Mazon](https://archives.ardeche.fr/n/fonds-mazon/n:103) consultable en ligne.
 
-<section>
-
 ---
 
 Les Voyages du Docteur Francus ont été publiés du vivant d'Albin Mazon de 1878 à
@@ -109,5 +107,3 @@ complète des Voyages du Docteur Francus.
 <span title="michelc at gmail">Michel</span>
 
 </div>
-
-</section>
