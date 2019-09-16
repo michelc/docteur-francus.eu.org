@@ -54,7 +54,7 @@ leur province.
 * [__Voyage aux pays volcaniques du Vivarais__](./vivarais/) (1878)
 * [Voyage autour de Valgorge](./valgorge/) (1879)
 * [__Voyage autour de Privas__](./privas/) (1882)
-* [Voyage dans le midi de l'Ardèche](./midi-ardeche/) (1884)
+* [__Voyage dans le midi de l'Ardèche__](./midi-ardeche/) (1884)
 * [__Voyage à pied, à bateau, en voiture et à cheval le long de la rivière d'Ardèche__](./riviere-ardeche/) (1885)
 * [__Voyage au pays Helvien__](./helvien/) (1885)
 * [Voyage au Bourg-Saint-Andéol](./bourg-st-andeol/) (1886)
