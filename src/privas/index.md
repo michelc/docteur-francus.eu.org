@@ -5,6 +5,32 @@ description: "La version ebook du livre \"Voyage autour de Privas\" du Docteur F
 
 #### 1882
 
+<< Le **Voyage autour de Privas** marque une orientation
+nouvelle vers les questions d'histoire locale. M. Mazon y utilise
+la Collection du Languedoc, formée par les Bénédictions, et
+dans laquelle il avait remarqué la correspondance du marquis
+de Jovyac, qui forme une véritable chronique de la bonne société
+vivaroise du XVIII^e^ siècle. Le livre du géologue italien Marzari-Pencati
+lui a encore fourni des notes très vivantes. Chemin
+faisant, l'auteur traite de petits sujets de l'histoire locale, comme le
+péleringe de Pramailhet et la fontaine de Boulègue, dans des
+chapitres qui sont des monographies très complètes. On trouve,
+dans la suite du volume, tout ce qu'il faut savoir sur des notabilités
+ardéchoises comme Delichères, les frères Allignol, le
+général Massol ou les Hilaire de Jovyac. Pour Privas même,
+dont l'histoire a été un peu négligée, un dernier chapitre donne
+une suite de notes chronologiques et le récit documenté des
+démêlés qui se produisirent sous Napoléon I^er^ pour le maintien
+de la préfecture à Privas. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. [Mon ami Barbe](01.html)

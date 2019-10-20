@@ -80,7 +80,7 @@ h2 a {
 h5 { margin-top: 0; }
 #mazon h5 { display: none; }
 
-header hr, #mazon hr {
+hr.basic {
   background-color: #111;
   height: 1px;
   margin: 3rem 42%;

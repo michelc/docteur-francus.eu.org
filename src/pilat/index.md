@@ -5,6 +5,21 @@ description: "La version ebook du livre \"Voyage humoristique, politique et phil
 
 #### 1890
 
+<< Le **Voyage au Mont-Pilat** n'a presque rien de vivarois,
+c'est surtout en naturaliste et en philosophe que M. Mazon a
+parcouru cette région du Forez ; il donne cependant une note
+sur Jean Bruzeau, fondateur de la communauté des hermites de
+Saint-Montan, et quelques renseignements sur les origines de
+l'industrie de la soie en Vivarais. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. [De Paris à Saint-Etienne-en-Forez](01.html)

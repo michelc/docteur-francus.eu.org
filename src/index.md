@@ -78,7 +78,7 @@ biographique, bibliographique, industriel et commercial" de l'Ardèche qui n'a
 jamais vu le jour. Aujourd'hui numérisés, les registres de son "Encyclopédie de
 l'Ardèche" constituent le [Fonds Albin Mazon](https://archives.ardeche.fr/n/fonds-mazon/n:103).
 
----
+<hr class="basic">
 
 Les Voyages du Docteur Francus ont été publiés du vivant d'Albin Mazon de 1878 à
 1905. Ils ont été réédités à partir des années 1965  par l'Imprimerie Lienhart à

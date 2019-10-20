@@ -9,6 +9,26 @@ id: "boutieres"
 
 #### 1902
 
+<< Le **Voyage au pays des Boutières** est certainement l'un
+des plus intéressants de la série. Il est consacré à "la partie de
+nos montagnes où sont le mieux conservées les traditions huguenotes".
+L'auteur a utilisé pour ce volume les sources les plus
+variées : il y traite presque exclusivement l'histoire de Vernoux,
+de Châteauneuf et de Chalancon, aux dix-septième et dix-huitième
+siècles. Il va même jusqu'à la période contemporaine et
+donne le texte du beau discours prononcé le 3 juin 1888 par un
+notable protestant des Boutières, M. Vacheresse, propriétaire de
+l'école libre de Cluac. De rapides biographies signalent les principaux
+personnages originaires de Vernoux. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. [Un avant-propos de touriste](01.html)

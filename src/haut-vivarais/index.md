@@ -5,6 +5,20 @@ description: "La table des matières du livre \"Voyage humoristique dans le Haut
 
 #### 1905
 
+<< Le **Voyage dans le Haut Vivarais** clôture cette suite de
+récits agréables et instructifs : il est consacré à Saint-Agrève, la
+Louvesc et Devesset. Parmi les biographies qui y figurent, il
+faut retenir celle du général Combelle, soldat brillant, injustement
+oublié. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. De Clermont-Ferrand à Saint-Agrève par le chemin des écoliers
@@ -25,7 +39,7 @@ description: "La table des matières du livre \"Voyage humoristique dans le Haut
 
 </div>
 
-<header><hr></header>
+<hr class="basic">
 
 #### I
 

@@ -5,6 +5,34 @@ description: "La version ebook du livre \"Voyage archéologique et pittoresque, 
 
 #### 1885
 
+<< Le **Voyage le long de la rivière d'Ardèche** est peut-être
+le plus vivant de la série. Les documents qui s'y mêlent aux
+légendes n'ont rien de rébarbatif. Quelques notes sur la famille,
+le prieuré et l'hermitage d'Ucel, amènent l'auteur à parler de feu
+M. Henry Deydier, dont l'oeuvre historique et généalogique, bien
+que demeurée manuscrite, mérite d'être citée. A propos d'Aubenas,
+il réfute une légende mise en circulation par Ovide de
+Valgorge, et d'après laquelle la terre d'Aubenas serait échue à la
+famille de Vogüé à la suite d'un heureux coup de dés, légende
+erronée s'il en fut, qui a fait une grande fortune, et que l'on voit
+reparaître de temps en temps sous la plume d'auteurs plus
+soucieux du détail pittoresque que de la vérité historique. D'Aubenas,
+M. Mazon passe à Vogüé où il présente aux lecteurs une
+dynastie de rois d'Yvetot, les Tastevin, dont la bonne popularité
+méritait d'être signalée. A propos de Balazuc l'auteur risque la
+gauloise légende de Jacqueline de Borne. Un chapitre est consacré
+au cardinal de Bernis, et un autre à Madame Vierne de
+Baladun, bienfaitrice de Bourg-Saint-Andéol, identifiée avec une
+Balazuc. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. [De la source de l'Ardèche à Vals](01.html)

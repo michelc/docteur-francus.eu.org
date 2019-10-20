@@ -5,6 +5,37 @@ description: "La version ebook du livre \"Voyage dans le midi de l'Ardèche\" du
 
 #### 1884
 
+<< Le **Voyage dans le midi de l'Ardèche**, est consacré aux cantons de Joyeuse, des Vans et de
+Vallon. Un historique des pélerinages de Chapias, de la
+Blachère et de Cornillon, des notes sur l'hermitage de Saint-Eugène,
+sur le P. Nicolas, curé de La Rochelle, sur l'abbé de la
+Salle, qui fit un séjour aux Vans, et enfin, pour Rosière, le procès-verbal
+de la visite de l'église, en 1675, par M. Monge, vicaire
+général, donnent une large place dans ce volume à l'histoire
+religieuse. Celle des familles n'y est pas moins bien représentée.
+M. Mazon ne s'est jamais attaché au point de vue purement
+généalogique et nobiliaire dans les études qu'il a consacrées aux
+familles du Vivarais : il les a plutôt considérées au point de vue
+du rôle historique qu'elles ont joué dans le pays. C'est ainsi qu'il
+a cité les Barthélemy de la Forest, famille de Joyeuse qui eut
+son heure d'éclat, et dont il raconte la misérable fin. Un chapitre
+entier est consacré aux Chanaleilles et à leur généalogie, dressée
+d'après les manuscrits de l'abbé Chambron, généalogie sur
+laquelle M. Mazon, mieux averti, devait plus tard faire des
+réserves, mettant même en doute l'existence de l'abbé Chambron
+(_Notice sur Jaujac_, p. 281). Un autre chapitre retrace l'histoire
+de la famille considérable des Merle de Lagorce, et le dernier
+constitue la bio-bibliographie la plus complète, croyons-nous, de M.
+Eugène Villard, de Vallon.‎ >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. [De Vals à Joyeuse](01.html)

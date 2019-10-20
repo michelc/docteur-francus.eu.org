@@ -5,6 +5,27 @@ description: "La table des matières du livre \"Voyage autour d'Annonay\" du Doc
 
 #### 1901
 
+<< Le **Voyage autour d'Annonay** débute par un résumé,
+clair et complet, de l'histoire des papeteries. Les biographies y
+tiennent une grande place : on y trouve une note précieuse sur
+les Pagan, dont l'histoire fut si controversée ; d'autres sur les
+Montchal, les Ruolz, les Vocance, et, pour l'époque contemporaine,
+sur M. Rouveure, le peintre Henri Gard, Mgr Roche, et
+l'abbé Caillet, historien de mérite. Deux chapitres sont presque
+exclusivement archéologiques : l'un traite du Châtelet d'Andance,
+ancien temple romain ; l'autre de la Sarrasinière,
+autre monument romain, sur lequel on a beaucoup discuté.
+L'auteur résume d'une façon brève et substantielle tout ce qui
+a été écrit à ce sujet. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. De Saint-Etienne à Bourg-Argental
@@ -28,7 +49,7 @@ description: "La table des matières du livre \"Voyage autour d'Annonay\" du Doc
 
 </div>
 
-<header><hr></header>
+<hr class="basic">
 
 #### I
 

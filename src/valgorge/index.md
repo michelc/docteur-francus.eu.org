@@ -5,6 +5,23 @@ description: "La table des matières du livre \"Voyage autour de Valgorge\" du D
 
 #### 1879
 
+<< Le **Voyage autour de Valgorge** ne diffère pas sensiblement,
+comme composition du précédent. L'auteur y fixe quelques
+renseignements conservés depuis un siècle par la tradition,
+comme la rivalité des habitants de Saint-Mélany et de Sablières
+et la réconciliation solennelle qui fut ménagée entre eux par
+leurs prieurs. Il faut citer parmi les descriptions celle du donjon
+de Montréal, et des notes biographiques sur les La Fare et sur
+Ovide de Valgorge. >>
+
+<div class="end">
+
+Auguste le Sourd -- Revue du Vivarais -- 1908
+
+</div>
+
+<hr class="basic">
+
 <div id="toc">
 
 1. De Largentière à Saint-Mélany
@@ -34,7 +51,7 @@ description: "La table des matières du livre \"Voyage autour de Valgorge\" du D
 
 </div>
 
-<header><hr></header>
+<hr class="basic">
 
 #### I
 
