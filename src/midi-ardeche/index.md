@@ -1,6 +1,6 @@
 ---
 title: "Voyage dans le midi de l'Ardèche"
-description: "La table des matières du livre \"Voyage dans le midi de l'Ardèche\" du Docteur Francus (Albin Mazon) publié en 1884 par l'Imprimerie du Patriote de Privas"
+description: "La version ebook du livre \"Voyage dans le midi de l'Ardèche\" du Docteur Francus (Albin Mazon) publié en 1884 par l'Imprimerie du Patriote de Privas"
 ---
 
 #### 1884

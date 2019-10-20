@@ -1,7 +1,7 @@
 ---
 title: "Voyage au pays des Boutières"
 alttitle: "Voyage au pays des Boutières. La région de Vernoux"
-description: "La table des matières du livre \"Voyage au pays des Boutières\" du Docteur Francus (Albin Mazon) publié en 1902 par Hervé Frères, Annonay"
+description: "La version ebook du livre \"Voyage au pays des Boutières\" du Docteur Francus (Albin Mazon) publié en 1902 par Hervé Frères, Annonay"
 
 # id pour que l'épilogue ne soit pas numéroté (via une règle CSS)
 id: "boutieres"

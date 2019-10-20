@@ -1,6 +1,6 @@
 ---
 title: "Voyage autour de Crussol"
-description: "La table des matières du livre \"Voyage autour de Crussol\" du Docteur Francus (Albin Mazon) publié en 1888 par l'Imprimerie Centrale de Privas"
+description: "La version ebook du livre \"Voyage autour de Crussol\" du Docteur Francus (Albin Mazon) publié en 1888 par l'Imprimerie Centrale de Privas"
 ---
 
 #### 1888

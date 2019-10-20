@@ -1,6 +1,6 @@
 ---
 title: "Voyage autour de Privas"
-description: "La table des matières du livre \"Voyage autour de Privas\" du Docteur Francus (Albin Mazon) publié en 1882 par l'Imprimerie Typographique Roure de Privas"
+description: "La version ebook du livre \"Voyage autour de Privas\" du Docteur Francus (Albin Mazon) publié en 1882 par l'Imprimerie Typographique Roure de Privas"
 ---
 
 #### 1882
