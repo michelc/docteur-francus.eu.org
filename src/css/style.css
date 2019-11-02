@@ -304,9 +304,10 @@ div.img p {
    ========================================================================== */
 
 footer {
-  margin: 3rem 0 0 0;
+  margin: 2rem 0 0 0;
   text-align: center;
 }
+footer span { display: none; }
 
 
 /* Smartphone landscape (448px)
@@ -395,4 +396,6 @@ footer {
   #next {
     display: none;
   }
+  footer a { display: none;}
+  footer span { display: inline; }
 }
