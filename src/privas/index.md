@@ -7,13 +7,13 @@ description: "La version ebook du livre \"Voyage autour de Privas\" du Docteur F
 
 << Le **Voyage autour de Privas** marque une orientation
 nouvelle vers les questions d'histoire locale. M. Mazon y utilise
-la Collection du Languedoc, formée par les Bénédictions, et
+la Collection de Languedoc, formée par les Bénédictions, et
 dans laquelle il avait remarqué la correspondance du marquis
 de Jovyac, qui forme une véritable chronique de la bonne société
-vivaroise du XVIII^e^ siècle. Le livre du géologue italien Marzari-Pencati
+vivaroise au XVIII^e^ siècle. Le livre du géologue italien Marzari-Pencati
 lui a encore fourni des notes très vivantes. Chemin
-faisant, l'auteur traite de petits sujets de l'histoire locale, comme le
-péleringe de Pramailhet et la fontaine de Boulègue, dans des
+faisant l'auteur traite de petits sujets d'histoire locale, comme le
+pélerinage de Pramailhet et la fontaine de Boulègue, dans des
 chapitres qui sont des monographies très complètes. On trouve,
 dans la suite du volume, tout ce qu'il faut savoir sur des notabilités
 ardéchoises comme Delichères, les frères Allignol, le

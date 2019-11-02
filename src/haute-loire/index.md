@@ -10,9 +10,9 @@ plus rapide que les précédents, est aussi plus anecdotique, on
 y trouve cependant des détails sur de pieux personnages nés dans
 la montagne ardéchoise : la mère Rivier et l'abbé Chiron (déjà
 cités dans le _Voyage au Bourg-Saint-Andéol_), l'abbé Terme et la
-soeur Thérèse Couderc. Chemin faisant M. Mazon rectifie encore
+soeur Térèse Couderc. Chemin faisant, M. Mazon rectifie encore
 une légende : celle de Madame de Rochebonne, l'amie de
-Madame de Sévigné, et de ses prétendus séjours en Vivarais. >>
+madame de Sévigné, et de ses prétendus séjours en Vivarais. >>
 
 <div class="end">
 

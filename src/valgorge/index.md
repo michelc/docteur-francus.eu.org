@@ -6,7 +6,7 @@ description: "La table des matières du livre \"Voyage autour de Valgorge\" du D
 #### 1879
 
 << Le **Voyage autour de Valgorge** ne diffère pas sensiblement,
-comme composition du précédent. L'auteur y fixe quelques
+comme composition, du précédent. L'auteur y fixe quelques
 renseignements conservés depuis un siècle par la tradition,
 comme la rivalité des habitants de Saint-Mélany et de Sablières
 et la réconciliation solennelle qui fut ménagée entre eux par

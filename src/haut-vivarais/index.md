@@ -5,7 +5,7 @@ description: "La table des matières du livre \"Voyage humoristique dans le Haut
 
 #### 1905
 
-<< Le **Voyage dans le Haut Vivarais** clôture cette suite de
+<< Le Voyage dans le Haut-Vivarais** clôture cette suite de
 récits agréables et instructifs : il est consacré à Saint-Agrève, la
 Louvesc et Devesset. Parmi les biographies qui y figurent, il
 faut retenir celle du général Combelle, soldat brillant, injustement

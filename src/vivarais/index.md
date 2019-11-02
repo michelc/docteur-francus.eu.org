@@ -7,19 +7,19 @@ description: "La version ebook du livre \"Voyage aux pays volcaniques du Vivarai
 
 
 << Le **Voyage aux pays volcaniques du Vivarais**, comme les
-premiers volumes de cette série, est plus anecdotique qu'historique ;
+premiers volumes de cette série, est plus anecnotique qu'historique ;
 c'est la nature qui en a fixé l'itinéraire, d'un volcan à
-un autre, depuis le Chenavari jusqu'à Antraigues et Montpezat.
+un autre, depuis le Chenavari jusqu'à Antraïgues et Montpezat.
 La géologie y tient comme de juste une grande place ; un chapitre
-y est consacré à J. B. Dalmas, géologue de mérite ; d'autres aux
+y est consacré à J.-B. Dalmas, géologue de mérite ; d'autres aux
 eaux minérales du Vernet, de Neyrac et de Marcols, et à la
 question du reboisement. On y trouve, à propos du château de
 Pourcheyrolles, un très juste éloge des paysages vivarois, appuyé
-d'une flatteuse citation du géologue anglais Poulett Scrope.
+par une flatteuse citation du géologue anglais Poulett Scrope.
 Arrivant à Antraïgues, l'auteur recueille quelques notes d'histoire
-contemporaine sur le pèlerinage de Saint-Roch et la
+contemporaine sur le pèlerinage de Saint-Roch, et la
 communauté des soeurs garde-malades de St-Roch, et aussi sur
-un défenseur ignoré de Louis XVI, Louis Mazon, son grand-père,
+un défenseur ignoré de Louis XVI, Louis Mazon, son grand père,
 dont il raconte brièvement la courageuse initiative. >>
 
 <div class="end">

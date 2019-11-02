@@ -8,7 +8,7 @@ description: "La version ebook du livre \"Voyage archéologique et pittoresque, 
 << Le **Voyage le long de la rivière d'Ardèche** est peut-être
 le plus vivant de la série. Les documents qui s'y mêlent aux
 légendes n'ont rien de rébarbatif. Quelques notes sur la famille,
-le prieuré et l'hermitage d'Ucel, amènent l'auteur à parler de feu
+le prieuré et l'hermitage d'Ucel, amènent l'auteur a parler de feu
 M. Henry Deydier, dont l'oeuvre historique et généalogique, bien
 que demeurée manuscrite, mérite d'être citée. A propos d'Aubenas,
 il réfute une légende mise en circulation par Ovide de

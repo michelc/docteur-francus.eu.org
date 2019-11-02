@@ -5,16 +5,16 @@ description: "La table des matières du livre \"Voyage au Bourg-St-Andéol\" du 
 
 #### 1886
 
-<< Le **Voyage au Bourg-St-Andéol** avec des détails de
+<< Le **Voyage au Bourg-Saint-Andéol** avec des détails de
 moeurs et des souvenirs pittoresques, comme le récit d'un voyage
-fait en bateau par l'auteur, du Pont-Saint-Esprit au Bourg-Saint-Andéol,
+fait en bâteau par l'auteur, du Pont-Saint-Esprit au Bourg-Saint-Andéol,
 vers 1840, contient des notices qui restent à
 consulter sur des Vivarois peu connus du XVII^e^ et du XVIII^e^
 siècle, comme le médecin Combalusier, né en 1713, qui professa
 la pharmacie à Paris, et Jacques Mosnier, juriste, qui publia en
 1618 sous le titre de _Véritables alliances du droit français_ un
 recueil qui ne mérite pas l'oubli dans lequel il est tombé. Plus
-près de nous, l'auteur fixe les silhouettes d'Henri Audigier,
+près de nous, l'auteur fixe les silhouettes d'Henri d'Audigier,
 publiciste aimable et distingué, et de l'abbé Chiron, aumônier
 des prisons de Privas, qui laissa une mémoire vénérée. >>
 

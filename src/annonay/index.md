@@ -5,7 +5,7 @@ description: "La table des matières du livre \"Voyage autour d'Annonay\" du Doc
 
 #### 1901
 
-<< Le **Voyage autour d'Annonay** débute par un résumé,
+<< Le **Voyage autour d'Annonay**, débute par un résumé,
 clair et complet, de l'histoire des papeteries. Les biographies y
 tiennent une grande place : on y trouve une note précieuse sur
 les Pagan, dont l'histoire fut si controversée ; d'autres sur les

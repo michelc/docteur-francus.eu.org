@@ -8,10 +8,10 @@ description: "La version ebook du livre \"Voyage autour de Crussol\" du Docteur 
 << Le **Voyage autour de Crussol** conduit pour la première
 fois le lecteur dans le Haut-Vivarais. M. Mazon y donne au
 début d'intéressantes indications sur sa méthode de travail et sur
-des publications qu'il projetait. Ainsi que dans les volumes précédents
-on y trouve quelques biographies ; entre autres celles de M. Dode,
-député aux États généraux, et de l'abbé Garnodier, historien ;
-des détails de moeurs tels que la description du jeu de la "Surle"
+les publications qu'il projetait. Comme dans les volumes précédents
+on y trouve quelques biographies : celle de M. Dode,
+député aux Etats généraux, et de l'abbé Garnodier, historien ;
+des détails de moeurs comme la description du jeu de la "Surle"
 qui fleurit à Charmes depuis des siècles, sur les Crussol, et les
 mémoires de M. de Villeneuve La-Roche-Barnaud, de Saint-Péray,
 émigré et échappé aux massacres de Quiberon ; mais il
