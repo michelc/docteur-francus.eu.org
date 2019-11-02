@@ -79,11 +79,12 @@ h2 a {
 
 h5 { margin-top: 0; }
 #mazon h5 { display: none; }
+#mazon.oeuvre h5 { display: block ; }
 
 hr.basic {
   background-color: #111;
   height: 1px;
-  margin: 3rem 42%;
+  margin: 2rem 42%;
   overflow-y: hidden;
 }
 
@@ -219,6 +220,9 @@ a strong {
 span.strong {
   font-weight: bold;
 }
+.oeuvre strong {
+  font-weight: 700;
+}
 
 hr {
   border: 0;
@@ -269,8 +273,11 @@ hr:after { content: '* *'; display: block; }
    ========================================================================== */
 
 img {
-  max-width: 100%;
+  margin: .33rem 0;
   max-width: 300px;
+}
+.oeuvre img {
+  max-width: 100%;
 }
 div.img p {
   text-align: center;
