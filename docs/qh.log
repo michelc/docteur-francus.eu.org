@@ -1,13 +1,13 @@
-QuickHtml ..
+QuickHtml \MVC\docteur-francus.eu.org
 ---
-date: 02/11/2019 10:45:55
-src: D:\MVC\docteur-francus.eu.org\src
-docs: D:\MVC\docteur-francus.eu.org\docs
+date: 04/11/2019 12:22:50
+src: E:\MVC\docteur-francus.eu.org\src
+docs: E:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
 mkdir: /
- copy: /albin-mazon.html
+write: /albin-mazon.md
  copy: /apple-touch-icon-180x180.png
  copy: /CNAME
  copy: /favicon.ico
@@ -68,6 +68,7 @@ write: /helvien/14.md
 write: /helvien/15.md
 write: /helvien/index.md
 mkdir: /images
+ copy: /images/albin-mazon.jpg
  copy: /images/docteur-francus.jpg
  copy: /images/vivarais-225.png
  copy: /images/vivarais-29.png
@@ -191,4 +192,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 8,07 seconds 
+Site built in 5,22 seconds 
