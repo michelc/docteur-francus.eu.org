@@ -52,7 +52,7 @@ Auguste le Sourd -- Revue du Vivarais -- 1908
 1. [Le pied de Borne](12.html)
 1. [Banne](13.html)
 1. [Le bois de Païolive](14.html)
-1. [De Saint-Paul-le-jeune à Grospierre](15.html)
+1. [De St-Paul-le-jeune à Grospierres](15.html)
 1. [Ruoms](16.html)
 1. [Vallon](17.html)
 1. [Les Merle de La Gorce](18.html)

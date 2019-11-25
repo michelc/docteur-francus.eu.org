@@ -102,7 +102,6 @@ et folie. -- Le nez malade. -- Le mont Chiniac et ses voies romaines. --
 Notre-Dame de l'Estrade. -- Le martyre de Saint-Agrève. -- La fontaine qui
 guérit. -- Les miracles. -- Programme d'excursion. -- L'abbé Chambron.
 
-
 </div>
 
 #### IV
