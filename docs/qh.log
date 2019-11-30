@@ -1,8 +1,8 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 25/11/2019 12:20:43
-src: E:\MVC\docteur-francus.eu.org\src
-docs: E:\MVC\docteur-francus.eu.org\docs
+date: 30/11/2019 13:04:45
+src: D:\MVC\docteur-francus.eu.org\src
+docs: D:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
@@ -49,6 +49,41 @@ mkdir: /css
 mkdir: /haut-vivarais
 write: /haut-vivarais/index.md
 mkdir: /haute-loire
+write: /haute-loire/01.md
+write: /haute-loire/02.md
+write: /haute-loire/03.md
+write: /haute-loire/04.md
+write: /haute-loire/05.md
+write: /haute-loire/06.md
+write: /haute-loire/07.md
+write: /haute-loire/08.md
+write: /haute-loire/09.md
+write: /haute-loire/10.md
+write: /haute-loire/11.md
+write: /haute-loire/12.md
+write: /haute-loire/13.md
+write: /haute-loire/14.md
+write: /haute-loire/15.md
+write: /haute-loire/16.md
+write: /haute-loire/17.md
+write: /haute-loire/18.md
+write: /haute-loire/19.md
+write: /haute-loire/20.md
+write: /haute-loire/21.md
+write: /haute-loire/22.md
+write: /haute-loire/23.md
+write: /haute-loire/24.md
+write: /haute-loire/25.md
+write: /haute-loire/26.md
+write: /haute-loire/27.md
+write: /haute-loire/28.md
+write: /haute-loire/29.md
+write: /haute-loire/30.md
+write: /haute-loire/31.md
+write: /haute-loire/32.md
+write: /haute-loire/33.md
+write: /haute-loire/34.md
+write: /haute-loire/35.md
 write: /haute-loire/index.md
 mkdir: /helvien
 write: /helvien/01.md
@@ -192,4 +227,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 5,52 seconds 
+Site built in 8,46 seconds 
