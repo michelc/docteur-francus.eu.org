@@ -269,6 +269,29 @@ hr:after { content: '* *'; display: block; }
 }
 
 
+/* Evaluation revenus et charges prieuré de Ruoms
+  (Voyage dans le midi de l'Ardèche - chapitre XVI)
+  ========================================================================== */
+
+.prieure {
+  line-height: 1;
+  margin: .5rem 0;
+  page-break-inside: avoid;
+  width: 100%;
+}
+.prieure caption {
+  font-style: italic;
+  padding: .5rem;
+}
+.prieure td {
+  padding: .2rem;
+  text-align: left;
+}
+.prieure td:first-child {
+  width: 70%;
+}
+
+
 /* Images
    ========================================================================== */
 

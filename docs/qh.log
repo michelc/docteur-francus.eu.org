@@ -1,8 +1,8 @@
-QuickHtml 
+QuickHtml ..
 ---
-date: 30/11/2019 13:04:45
-src: D:\MVC\docteur-francus.eu.org\src
-docs: D:\MVC\docteur-francus.eu.org\docs
+date: 02/12/2019 12:25:26
+src: E:\MVC\docteur-francus.eu.org\src
+docs: E:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
@@ -227,4 +227,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 8,46 seconds 
+Site built in 5,45 seconds 
