@@ -13,7 +13,8 @@
     <link rel="stylesheet" href="./css/style.css">
   </head>
 
-  <body id="{{ id }}"><div class="container">
+  <body id="{{ id }}">
+  <div class="container">
 
     <header>
       <h2><a href=".">{{ alttitle }}</a></h2>
@@ -29,6 +30,19 @@
       <span>{{ url }}</span>
     </footer>
 
-  </div></body>
+  </div>
+
+  <script>
+    (function() {
+      window.counter = 'https://michelc.goatcounter.com/count'
+      var script = document.createElement('script');
+      script.async = 1;
+      script.src = '//gc.zgo.at/count.js';
+      var ins = document.getElementsByTagName('script')[0];
+      ins.parentNode.insertBefore(script, ins)
+    })();
+  </script>
+
+  </body>
 
 </html>
