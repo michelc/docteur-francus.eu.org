@@ -59,7 +59,7 @@ leur province.
 * [Voyage au Bourg-Saint-Andéol](./bourg-st-andeol/) (1886)
 * [__Voyage autour de Crussol__](./crussol/) (1888)
 * [__Voyage humoristique, politique et philosophique au mont Pilat__](./pilat/) (1890)
-* [Voyage fantaisiste et sérieux à travers l'Ardèche et la Haute-Loire](./haute-loire/) (1894)
+* [__Voyage fantaisiste et sérieux à travers l'Ardèche et la Haute-Loire__](./haute-loire/) (1894)
 * [Voyage autour d'Annonay](./annonay/) (1901)
 * [__Voyage au pays des Boutières__](./boutieres/) (1902)
 * [Voyage humoristique dans le Haut Vivarais](./haut-vivarais) (1905)
