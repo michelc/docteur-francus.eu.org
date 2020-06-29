@@ -52,7 +52,7 @@ qu'il a servi, la plume à la main, pendant près d'un demi-siècle.
 Il est mort en chrétien, le 29 février 1908 et repose à Privas, au
 coeur de ce vieux Vivarais qu'il a tant aimé.
 
-<div class="img">
+<div class="centre">
 
 ![Charles Albin Mazon](./images/albin-mazon.jpg)
 

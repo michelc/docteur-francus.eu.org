@@ -31,7 +31,7 @@ Après dix années d'éloignement, il se réfugie à Paris où il prend la direc
 des services télégraphiques de l'Agence Havas. Lors du rattachement de Nice à la
 France, il est décoré de la Légion d'honneur le 15 août 1862.
 
-<div class="img">
+<div class="centre">
 
 ![Charles Albin Mazon](./images/docteur-francus.jpg)
 
