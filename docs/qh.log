@@ -1,11 +1,12 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 13/07/2020 13:56:04
+date: 21/07/2020 13:54:17
 src: D:\MVC\docteur-francus.eu.org\src
 docs: D:\MVC\docteur-francus.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
+mkdir: /
 write: /albin-mazon.md
  copy: /apple-touch-icon-180x180.png
  copy: /CNAME
@@ -47,6 +48,7 @@ mkdir: /css
  copy: /css/style.css
 mkdir: /haut-vivarais
 write: /haut-vivarais/index.md
+mkdir: /haute-loire
 write: /haute-loire/01.md
 write: /haute-loire/02.md
 write: /haute-loire/03.md
@@ -226,4 +228,4 @@ write: /vivarais/24.md
 write: /vivarais/index.md
 write: /sitemap.md
 ---
-Site built in 11,43 seconds 
+Site built in 12,13 seconds 
